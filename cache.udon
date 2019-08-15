@@ -1,0 +1,28 @@
+:-  :~
+    [%collection 'winter-is-here']
+    [%comments 'open']
+    [%last-modified '~2019.8.15..14.47.23..6b06']
+    [%title 'cache']
+    [%creator '~winter-paches']
+    [%pinned 'false']
+    [%filename 'cache']
+    [%date-created '~2019.8.15..14.47.23..6b06']
+  ==
+;>
+Two of the most difficult problems in Computer Science are caching and parallelism.
+
+I have seen many computer systems have problems as the result of poor caching.  In addition, they are frequently the hardest to decipher and fix.
+
+Mark Nottingham has published [a nice article on HTTP caching](http://www.mnot.net/blog/2009/02/24/unintended_caching), "Caching When You Least Expect it"
+
+Here's the main takeaway:
+
+> ...if you publish personalised content on the Web, it does mean you need to think carefully about caching.
+
+  The caching model in HTTP wasn’t designed with Cookie authentication in mind. If you assume that no validators
+  and no freshness means no caching, you could be caught out, badly.
+
+  This simplest way to fix this is to set a "Cache-Control: private" directive on all personalised responses
+  that way, shared caches know not to reuse it, while browser caches can still, so that user experience isn’t impacted.
+
+  "Cache-Control: no-store" also works, but it will avoid the browser cache as well.
