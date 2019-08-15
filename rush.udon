@@ -1,0 +1,33 @@
+:-  :~
+  [%collection 'winter-is-here']
+  [%comments 'open']
+  [%last-modified '~2019.8.5..13.39.17..b4e1']
+  [%title 'rush']
+  [%creator '~winter-paches']
+  [%pinned 'false']
+  [%filename 'rush']
+  [%date-created '~2019.8.5..13.39.17..b4e1']
+    ==
+;>
+"Walk into any bookstore, and you'll see how to Teach Yourself Java in 7
+Days alongside endless variations offering to teach Visual Basic,
+Windows, the Internet, and so on in a few days or hours.  I did the
+following power search at Amazon.com :
+ 
+> pubdate: after 1992 and title: days and (title: learn or title: teach yourself) 
+  and got back 248 hits.  
+ 
+The first 78 were computer books (number 79 was Learn Bengali in 30 days).  
+ 
+I replaced "days" with "hours" and got remarkably similar results: 253
+more books, with 77 computer books followed by Teach Yourself Grammar
+and Style in 24 Hours at number 78. Out of the top 200 total, 96% were
+computer books. 
+ 
+The conclusion is that either people are in a big rush to learn about
+computers, or that computers are somehow fabulously easier to learn
+than anything else.  There are no books on how to learn Beethoven, or
+Quantum Physics, or even Dog Grooming in a few days."
+
+-- [Peter Norvig](http://www.norvig.com/21-days.html)
+

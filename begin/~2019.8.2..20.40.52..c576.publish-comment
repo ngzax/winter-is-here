@@ -1,0 +1,7 @@
+creator: ~winter-paches
+collection: winter-is-here
+post: begin
+date-created: ~2019.8.2..20.40.52..c576
+last-modified: ~2019.8.2..20.40.52..c576
+-----
+yeah, thanks, ~sicdev. i am going to be working on updating that code so that it can do exactly that and deploy to digital ocean, linode, &c. Believe it or not AWS was actually harder because of all the abstractions they put in place, the auth, &c.
