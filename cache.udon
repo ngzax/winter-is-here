@@ -1,13 +1,13 @@
 :-  :~
-    [%collection 'winter-is-here']
-    [%comments 'open']
-    [%last-modified '~2019.8.15..14.47.23..6b06']
-    [%title 'cache']
-    [%creator '~winter-paches']
-    [%pinned 'false']
-    [%filename 'cache']
-    [%date-created '~2019.8.15..14.47.23..6b06']
-  ==
+  [%collection 'winter-is-here']
+  [%comments 'open']
+  [%last-modified '~2019.8.15..15.26.09..2ec1']
+  [%title 'cache']
+  [%creator '~winter-paches']
+  [%pinned 'false']
+  [%filename 'cache']
+  [%date-created '~2019.8.15..15.26.09..2ec1']
+    ==
 ;>
 Two of the most difficult problems in Computer Science are caching and parallelism.
 
@@ -26,3 +26,4 @@ Here's the main takeaway:
   that way, shared caches know not to reuse it, while browser caches can still, so that user experience isn’t impacted.
 
   "Cache-Control: no-store" also works, but it will avoid the browser cache as well.
+
