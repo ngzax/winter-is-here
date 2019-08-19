@@ -1,0 +1,33 @@
+:-  :~
+  [%collection 'winter-is-here']
+  [%comments 'open']
+  [%last-modified '~2019.8.16..21.04.30..aabe']
+  [%title 'waiting']
+  [%creator '~winter-paches']
+  [%pinned 'false']
+  [%filename 'waiting']
+  [%date-created '~2019.8.16..21.04.30..aabe']
+    ==
+;>
+On the [Yahoo!](http://yahoo.com) [TDD](http://en.wikipedia.org/wiki/Test-driven_development) group
+[Kent Beck](http://www.threeriversinstitute.org/Kent%20Beck.htm) observed the
+following in the thread "TDD is Kanban for Code":
+
+> "I disagree that "relentless refactoring" is an implication of TDD is kanban for code. 
+  
+  I find that waiting is one of my most valuable design skills. When I don't know
+  quite how to resolve an ugly design, I'm better off waiting until either I have
+  an insight or the situation gets enough worse that insight is forced on me. 
+  
+  That was one of my takeaways from the analogy, that maybe I've been refactoring
+  too soon. 
+  
+  Note I didn't say too much, just too soon. What would happen if I made more of
+  a habit of waiting? My code would be messier just sitting there, but I wouldn't
+  prematurely commit to a design that I later had to unwind before making
+  progress."
+
+I often tell myself as I code to just let some duplication and/or "smell" live
+there for a bit.  Don't feel like you have to fix everything immediately, but
+rather wait until I can clearly see the commonality, thus resisting the urge to
+"jump to the framework" and instead let it *emerge.*
