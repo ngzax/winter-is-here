@@ -10,7 +10,26 @@
     ==
 ;>
 >  ... imagine an alternate model of consumer services over the Internet. 
-  Imagine it is not the case that the likes of Facebook, Google, Twitter, etc. operate enormous servers that authenticate our identities on our behalf, servers with which we interact only as clients, who volunteer the data necessary to run the applications for free. Imagine instead that we ran our own servers, hosting our own data, to which these services connected through APIs. Twitter could show your photos to your followers, and Facebook could show your private messages to your friends, but only because you allowed them to—and you could remove this access with the click of a button. Furthermore, they couldn’t ban you, any more than email can ban you. Nor could they give access to your data to anybody other than the identities you specify, any more than email can secretly send your emails to somebody other than the desired recipient. This model of the Internet would treat everybody as roughly equal nodes, which, bizarrely, is how it is usually disingenuously described today. The Jedi mind trick here is that all nodes are roughly equal in terms of relaying encrypted data, but not in terms of controlling it. When we look at the far more important factor of control of information, rather than temporary possession in transit, the Internet looks a lot more like television than most of us care to admit: a few central hubs broadcast everything to everyone. Even more weirdly, on the Internet, the everything is mostly data about you, that you gave these hubs for free."
+  Imagine it is not the case that the likes of Facebook, Google, Twitter, etc.
+  operate enormous servers that authenticate our identities on our behalf,
+  servers with which we interact only as clients, who volunteer the data
+  necessary to run the applications for free. Imagine instead that we ran our
+  own servers, hosting our own data, to which these services connected through
+  APIs. Twitter could show your photos to your followers, and Facebook could
+  show your private messages to your friends, but only because you allowed them
+  to—and you could remove this access with the click of a button. Furthermore,
+  they couldn’t ban you, any more than email can ban you. Nor could they give
+  access to your data to anybody other than the identities you specify, any
+  more than email can secretly send your emails to somebody other than the
+  desired recipient. This model of the Internet would treat everybody as
+  roughly equal nodes, which, bizarrely, is how it is usually disingenuously
+  described today. The Jedi mind trick here is that all nodes are roughly equal
+  in terms of relaying encrypted data, but not in terms of controlling it. When
+  we look at the far more important factor of control of information, rather
+  than temporary possession in transit, the Internet looks a lot more like
+  television than most of us care to admit: a few central hubs broadcast
+  everything to everyone. Even more weirdly, on the Internet, the everything is
+  mostly data about you, that you gave these hubs for free."
 
 from ["Towards a Free and Open Internet" by Allen Farrington.](https://areomagazine.com/2019/07/31/towards-a-free-and-open-internet/)
 
