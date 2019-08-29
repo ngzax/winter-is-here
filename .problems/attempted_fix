@@ -1,0 +1,19 @@
+> |merge %home our %base, =gem %that
+>=
+merged with strategy %that
+ames: czar bus.urbit.org: ip .35.199.160.231
+worker_send_replace 707043 crud
+worker_send_replace 707044 crud
+[%tang /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/zuse ~sorpeg-loctex]
+[%vane %a /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/ames ~tirryx-polden]
+[%vane %b /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/behn ~savsyt-tabpyx]
+[%vane %c /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/clay ~hoddul-pidtel]
+[%vane %d /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/dill ~rivhes-matmel]
+[%vane %e /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/eyre ~lislev-bacleg]
+[%vane %f /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/ford ~lisdun-pitmyr]
+[%vane %g /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/gall ~balrup-ritmur]
+[%vane %i /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/iris ~dalmel-podpur]
+[%vane %j /~winter-paches/home/~2019.8.28..21.14.42..1292/sys/vane/jael ~libser-harput]
+; ~sicdev-pilnup is ok
+; ~dirwex-dosrev not responding still trying
+worker_send_replace 707061 crud
