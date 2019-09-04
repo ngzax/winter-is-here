@@ -1,0 +1,58 @@
+:-  :~
+  [%collection 'winter-is-here']
+  [%comments 'open']
+  [%last-modified '~2019.9.3..18.46.41..abd6']
+  [%title 'recover']
+  [%creator '~winter-paches']
+  [%pinned 'false']
+  [%filename 'recover']
+  [%date-created '~2019.9.3..18.34.11..1bc7']
+    ==
+;>
+I recently needed to recover my urbit notebook from a crashed :publish application. (The state has gotten corrupted somehow. Here is how I recovered it. *NOTE:* You must have an exported copy of your entire notebook before you do this. This is done by mounting your pier's %home to unix. Make sure you move it out of the way before you breach your pier. One nice thing I discovered is that this does preserve all the comments.
+
+#### Step 1: Personal Breach (thanks to ~palfun-foslup for this)
+
+1) shut down your running ship, archive its directory.
+
+2) using bridge, go to the "configure keys" page and check the box for breaking continuity. wait for the transaction to confirm, and then wait another five minutes for good measure: the network needs to know about this. If you have another planet or a comet you can watch for the "~pier has sunk" message in the terminal.
+
+3) using your new keyfile, boot your ship from scratch boot the new pier with your new keys
+
+
+#### Step 2: Notebook Recovery
+
+
+[the following assumes that you have your old pier archived in pier/planet-old, your reborn planet is in pier/planet and your notebook is named "notes"]
+
+sync your home dir out to unix in the dojo: 
+
+```
+dojo> |mount %home
+```
+
+switch to unix:
+
+```
+$ cd pier/planet/home/web
+$ mkdir publish
+$ cd publish
+```
+
+copy over the entire old notes directory into the new planet:
+
+```
+cp -r pier/planet-old/home/web/publish/notes .
+```
+
+Hop back into the urbit dojo: 
+
+```
+dojo> |commit %home
+dojo> :publish &publish-action [%serve %notes]
+```
+
+That's it.
+
+
+
