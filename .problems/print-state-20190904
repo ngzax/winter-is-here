@@ -1,0 +1,1699 @@
+[   pubs
+  { [ p=%winter-is-here
+        q
+      [ col=[bone=65 dat=[%.y p=[owner=~winter-paches title='winter-is-here' filename=%winter-is-here comments=%open allow-edit=%all date-created=~2019.9.3..15.28.14..11fa last-modified=~2019.9.3..15.28.14..11fa]]]
+          pos
+        { [ p=%generalizations
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='generalizations' collection=%winter-is-here filename=%generalizations comments=%open date-created=~2019.8.7..12.45.34..4ace last-modified=~2019.8.7..12.48.26..90e8 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="From an old (2003) but prescient Clay Shirky article about the challenges faced by the "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“Semantic”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" web, "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://www.shirky.com/writings/semantic_syllogism.html"]]] c=~[[g=[n=%$ a=~[[n=%$ v="“The Semantic Web, Syllogism, and Worldview”"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=". "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%blockquote a=~]
+                          c
+                        ~[
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"“We can't disallow generalizations because we can't know which statements are generalizations by looking at them. Even if we could, it wouldn't help, because generalizations are a fundamental too\/
+                                        l of expression.”"
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                              [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'From an old (2003) but prescient Clay Shirky article about the challenges faced by the "Semantic" web, ["The Semantic Web, Syllogism, and Worldview"](http://www.shirky.com/writings/semantic_syllogism.html).\0a\0a> "\/
+                    We can\'t disallow generalizations because we can\'t know which statements are generalizations by looking at them.\0a  Even if we could, it wouldn\'t help, because generalizations are a fundamental tool of expression
+                    ."\0a\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%rush
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='rush' collection=%winter-is-here filename=%rush comments=%open date-created=~2019.8.5..13.39.17..b4e1 last-modified=~2019.8.5..13.39.17..b4e1 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [   g
+                            [ n=%$
+                                a
+                              ~[
+                                [ n=%$
+                                    v
+                                  \/"\"Walk into any bookstore, and you'll see how to Teach Yourself Java in 7 Days alongside endless variations offering to teach Visual Basic, Windows, the Internet, and so on in a few days or hours. I \/
+                                    did the following power search at Amazon.com : "
+                                  \/                                                                                                                                                                                                        \/
+                                ]
+                              ]
+                            ]
+                            c=~
+                          ]
+                        ]
+                      ]
+                      [g=[n=%blockquote a=~] c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="pubdate: after 1992 and title: days and (title: learn or title: teach yourself) and got back 248 hits. "]]] c=~]]]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="The first 78 were computer books (number 79 was Learn Bengali in 30 days). "]]] c=~]]]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="I replaced "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“days”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" with "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“hours”"]]] c=~]
+                          [   g
+                            [ n=%$
+                                a
+                              ~[
+                                [ n=%$
+                                  v=" and got remarkably similar results: 253 more books, with 77 computer books followed by Teach Yourself Grammar and Style in 24 Hours at number 78. Out of the top 200 total, 96% were computer books. "
+                                ]
+                              ]
+                            ]
+                            c=~
+                          ]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [   g
+                            [ n=%$
+                                a
+                              ~[
+                                [ n=%$
+                                    v
+                                  \/"The conclusion is that either people are in a big rush to learn about computers, or that computers are somehow fabulously easier to learn than anything else. There are no books on how to learn Beetho\/
+                                    ven, or Quantum Physics, or even Dog Grooming in a few days.\" "
+                                  \/                                                                                                                                                                                                        \/
+                                ]
+                              ]
+                            ]
+                            c=~
+                          ]
+                        ]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="-- "]]] c=~] [g=[n=%a a=~[[n=%href v="http://www.norvig.com/21-days.html"]]] c=~[[g=[n=%$ a=~[[n=%$ v="Peter Norvig"]]] c=~]]] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]]
+                    ]
+                  ]
+                  \/'"Walk into any bookstore, and you\'ll see how to Teach Yourself Java in 7\0aDays alongside endless variations offering to teach Visual Basic,\0aWindows, the Internet, and so on in a few days or hours.  I did the\0af\/
+                    ollowing power search at Amazon.com :\0a \0a> pubdate: after 1992 and title: days and (title: learn or title: teach yourself) \0a  and got back 248 hits.  \0a \0aThe first 78 were computer books (number 79 was Learn
+                    Bengali in 30 days).  \0a \0aI replaced "days" with "hours" and got remarkably similar results: 253\0amore books, with 77 computer books followed by Teach Yourself Grammar\0aand Style in 24 Hours at number 78. Out of
+                     the top 200 total, 96% were\0acomputer books. \0a \0aThe conclusion is that either people are in a big rush to learn about\0acomputers, or that computers are somehow fabulously easier to learn\0athan anything else.
+                     There are no books on how to learn Beethoven, or\0aQuantum Physics, or even Dog Grooming in a few days."\0a\0a-- [Peter Norvig](http://www.norvig.com/21-days.html)\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%freedom
+              q
+            [ bone=485
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='freedom' collection=%winter-is-here filename=%freedom comments=%open date-created=~2019.9.4..14.09.08..873f last-modified=~2019.9.4..14.09.08..873f pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="This is an interesting article that includes a prominent section on "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="https://urbit.org"]]] c=~[[g=[n=%$ a=~[[n=%$ v="Urbit"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" itself. "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%blockquote a=~]
+                          c
+                        ~[
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"... imagine an alternate model of consumer services over the Internet. Imagine it is not the case that the likes of Facebook, Google, Twitter, etc. operate enormous servers that authenticate our \/
+                                        identities on our behalf, servers with which we interact only as clients, who volunteer the data necessary to run the applications for free. Imagine instead that we ran our own servers, hosting ou
+                                        r own data, to which these services connected through APIs. Twitter could show your photos to your followers, and Facebook could show your private messages to your friends, but only because you al
+                                        lowed them to—and you could remove this access with the click of a button. Furthermore, they couldn’t ban you, any more than email can ban you. Nor could they give access to your data to anybody o
+                                        ther than the identities you specify, any more than email can secretly send your emails to somebody other than the desired recipient. "
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="from "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="https://areomagazine.com/2019/07/31/towards-a-free-and-open-internet/"]]] c=~[[g=[n=%$ a=~[[n=%$ v="“Towards a Free and Open Internet”"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" by Allen Farrington. "]]] c=~]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'This is an interesting article that includes a prominent section on [Urbit](https://urbit.org) itself.\0a\0a> ... imagine an alternate model of consumer services over the Internet. \0a  Imagine it is not the case th\/
+                    at the likes of Facebook, Google, Twitter, etc.\0a  operate enormous servers that authenticate our identities on our behalf,\0a  servers with which we interact only as clients, who volunteer the data\0a  necessary to
+                     run the applications for free. Imagine instead that we ran our\0a  own servers, hosting our own data, to which these services connected through\0a  APIs. Twitter could show your photos to your followers, and Faceboo
+                    k could\0a  show your private messages to your friends, but only because you allowed them\0a  to—and you could remove this access with the click of a button. Furthermore,\0a  they couldn’t ban you, any more than emai
+                    l can ban you. Nor could they give\0a  access to your data to anybody other than the identities you specify, any\0a  more than email can secretly send your emails to somebody other than the\0a  desired recipient.\0a\
+                    0afrom ["Towards a Free and Open Internet"](https://areomagazine.com/2019/07/31/towards-a-free-and-open-internet/) by Allen Farrington.\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%begin
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='begin' collection=%winter-is-here filename=%begin comments=%open date-created=~2019.8.2..13.59.17..87fe last-modified=~2019.8.5..13.34.53..a17f pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [   g
+                            [ n=%$
+                              a=~[[n=%$ v="I am a software developer who lives near Valley Forge, PA. I have been on urbit off and on for several years now. I was a very early reader and fan of Curtis's Unqualified Reservations blog. "]]
+                            ]
+                            c=~
+                          ]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="I have contributed to urbit-docs, urbit-examples, and ~palfun's urbit-string. I have a couple of urbit-related projects you might want to check out: "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="https://github.com/ngzax/urbit-devops"]]] c=~[[g=[n=%$ a=~[[n=%$ v="urbit-devops"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=", "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“Automation scripts to get you quickly up and running and then manage a cloud-hosted Urbit”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" and "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="https://github.com/ngzax/urbit-sync"]]] c=~[[g=[n=%$ a=~[[n=%$ v="urbit-sync"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=", "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“Syncs your local filesystem to your mounted urbit pier”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=". They're a bit old at this point but still useful. "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [   g
+                            [ n=%$
+                                a
+                              ~[
+                                [ n=%$
+                                    v
+                                  \/"I have been pondering, analyzing, and trying to figure out how to integrate computers into people’s lives for 34 years. I realize that, just like fire, a computer is a tool and not an end in itself. \/
+                                    However, I'm not so sure we really understand even now the best way to do this. "
+                                  \/                                                                                                                                                                                                        \/
+                                ]
+                              ]
+                            ]
+                            c=~
+                          ]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [   g
+                            [n=%$ a=~[[n=%$ v="I love data and data analysis. My nickname at Power Team, my first start-up was “Commander Data.” I love figuring out how to manage and process massive volumes of data. I think in sets. "]]]
+                            c=~
+                          ]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [   g
+                            [ n=%$
+                                a
+                              ~[
+                                [ n=%$
+                                    v
+                                  \/"I understand that nobody wants data; they want Information. The key to turning data into information is effective visualization. The foundation of effective visualization is having the proper data st\/
+                                    ructures. These structures must be both flexible, so that they can be re-arranged to suit different analysis dimensions, and robust so that they withstand the accumulation of data without being overwh
+                                    elmed. "
+                                  \/                                                                                                                                                                                                        \/
+                                ]
+                              ]
+                            ]
+                            c=~
+                          ]
+                        ]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="What I am always looking for is an opportunity to work with smart people solving hard problems using computers. "]]] c=~]]]
+                      [g=[n=%img a=~[[n=%src v="http://www.ngzax.com/images/incredu_daryl-small.jpg"]]] c=~]
+                    ]
+                  ]
+                  \/'I am a software developer who lives near Valley Forge, PA. I have been on urbit off and on for several years now. I was a very early reader and fan of Curtis\'s Unqualified Reservations blog.\0a\0aI have contributed\/
+                     to urbit-docs, urbit-examples, and ~palfun\'s urbit-string. I have a couple of urbit-related projects you might want to check out: [urbit-devops](https://github.com/ngzax/urbit-devops), "Automation scripts to get yo
+                    u quickly up and running and then manage a cloud-hosted Urbit" and [urbit-sync](https://github.com/ngzax/urbit-sync), "Syncs your local filesystem to your mounted urbit pier". They\'re a bit old at this point but sti
+                    ll useful.\0a\0aI have been pondering, analyzing, and trying to figure out how to integrate computers into people’s lives for 34 years. I realize that, just like fire, a computer is a tool and not an end in itself. H
+                    owever, I\'m not so sure we really understand even now the best way to do this.\0a\0aI love data and data analysis. My nickname at Power Team, my first start-up was “Commander Data.” I love figuring out how to manage
+                     and process massive volumes of data. I think in sets.\0a\0aI understand that nobody wants data; they want Information. The key to turning data into information is effective visualization. The foundation of effective
+                     visualization is having the proper data structures. These structures must be both flexible, so that they can be re-arranged to suit different analysis dimensions, and robust so that they withstand the accumulation o
+                    f data without being overwhelmed.\0a\0aWhat I am always looking for is an opportunity to work with smart people solving hard problems using computers.\0a\0a;img@"http://www.ngzax.com/images/incredu_daryl-small.jpg";\
+                    0a\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%waiting
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='waiting' collection=%winter-is-here filename=%waiting comments=%open date-created=~2019.8.16..21.04.30..aabe last-modified=~2019.8.16..21.04.30..aabe pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="On the "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://yahoo.com"]]] c=~[[g=[n=%$ a=~[[n=%$ v="Yahoo!"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://en.wikipedia.org/wiki/Test-driven_development"]]] c=~[[g=[n=%$ a=~[[n=%$ v="TDD"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" group "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://www.threeriversinstitute.org/Kent%20Beck.htm"]]] c=~[[g=[n=%$ a=~[[n=%$ v="Kent Beck"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" observed the following in the thread "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“TDD is Kanban for Code”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=": "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%blockquote a=~]
+                          c
+                        ~[
+                          [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="“I disagree that ”"]]] c=~] [g=[n=%$ a=~[[n=%$ v="relentless refactoring\" is an implication of TDD is kanban for code. "]]] c=~]]]
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"I find that waiting is one of my most valuable design skills. When I don't know quite how to resolve an ugly design, I'm better off waiting until either I have an insight or the situation gets en\/
+                                        ough worse that insight is forced on me. "
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                            ]
+                          ]
+                          [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="That was one of my takeaways from the analogy, that maybe I've been refactoring too soon. "]]] c=~]]]
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"Note I didn't say too much, just too soon. What would happen if I made more of a habit of waiting? My code would be messier just sitting there, but I wouldn't prematurely commit to a design that \/
+                                        I later had to unwind before making progress.\" "
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="I often tell myself as I code to just let some duplication and/or "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“smell”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" live there for a bit. Don't feel like you have to fix everything immediately, but rather wait until I can clearly see the commonality, thus resisting the urge to "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“jump to the framework”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" and instead let it "]]] c=~]
+                          [g=[n=%b a=~] c=~[[g=[n=%$ a=~[[n=%$ v="emerge."]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'On the [Yahoo!](http://yahoo.com) [TDD](http://en.wikipedia.org/wiki/Test-driven_development) group\0a[Kent Beck](http://www.threeriversinstitute.org/Kent%20Beck.htm) observed the\0afollowing in the thread "TDD is K\/
+                    anban for Code":\0a\0a> "I disagree that "relentless refactoring" is an implication of TDD is kanban for code. \0a  \0a  I find that waiting is one of my most valuable design skills. When I don\'t know\0a  quite how
+                    to resolve an ugly design, I\'m better off waiting until either I have\0a  an insight or the situation gets enough worse that insight is forced on me. \0a  \0a  That was one of my takeaways from the analogy, that may
+                    be I\'ve been refactoring\0a  too soon. \0a  \0a  Note I didn\'t say too much, just too soon. What would happen if I made more of\0a  a habit of waiting? My code would be messier just sitting there, but I wouldn\'t\0
+                    a  prematurely commit to a design that I later had to unwind before making\0a  progress."\0a\0aI often tell myself as I code to just let some duplication and/or "smell" live\0athere for a bit.  Don\'t feel like you h
+                    ave to fix everything immediately, but\0arather wait until I can clearly see the commonality, thus resisting the urge to\0a"jump to the framework" and instead let it *emerge.*\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%recover
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='recover' collection=%winter-is-here filename=%recover comments=%open date-created=~2019.9.3..18.34.11..1bc7 last-modified=~2019.9.3..18.46.41..abd6 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="I recently needed to recover my urbit notebook from a crashed :publish application. (The state has gotten corrupted somehow. Here is how I recovered it. "]]] c=~]
+                          [g=[n=%b a=~] c=~[[g=[n=%$ a=~[[n=%$ v="NOTE:"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" You must have an exported copy of your entire notebook before you do this. This is done by mounting your pier's "]]] c=~]
+                          [g=[n=%code a=~] c=~[[g=[n=%$ a=~[[n=%$ v="%home"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" to unix. Make sure you move it out of the way before you breach your pier. One nice thing I discovered is that this does preserve all the comments. "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%h4 a=~[[n=%id v="step-1--personal-breach--thanks-to--palfun-foslup-for-this--"]]]
+                        c=~[[g=[n=%$ a=~[[n=%$ v="Step 1: Personal Breach (thanks to "]]] c=~] [g=[n=%code a=~] c=~[[g=[n=%$ a=~[[n=%$ v="~palfun-foslup"]]] c=~]]] [g=[n=%$ a=~[[n=%$ v=" for this) "]]] c=~]]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="1) shut down your running ship, archive its directory. "]]] c=~]]]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="2) using bridge, go to the "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“configure keys”"]]] c=~]
+                          [   g
+                            [ n=%$
+                                a
+                              ~[
+                                [ n=%$
+                                    v
+                                  \/" page and check the box for breaking continuity. wait for the transaction to confirm, and then wait another five minutes for good measure: the network needs to know about this. If you have another pl\/
+                                    anet or a comet you can watch for the "
+                                  \/                                                                                                                                                                                                        \/
+                                ]
+                              ]
+                            ]
+                            c=~
+                          ]
+                          [g=[n=%$ a=~[[n=%$ v="“~pier has sunk”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" message in the terminal. "]]] c=~]
+                        ]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="3) using your new keyfile, boot your ship from scratch boot the new pier with your new keys "]]] c=~]]]
+                      [g=[n=%h4 a=~[[n=%id v="step-2--notebook-recovery-"]]] c=~[[g=[n=%$ a=~[[n=%$ v="Step 2: Notebook Recovery "]]] c=~]]]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="[the following assumes that you have your old pier archived in pier/planet-old, your reborn planet is in pier/planet and your notebook is named "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“notes”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="] "]]] c=~]
+                        ]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="sync your home dir out to unix in the dojo: "]]] c=~]]]
+                      [g=[n=%pre a=~] c=~[[g=[n=%$ a=~[[n=%$ v="dojo> |mount %home\0a"]]] c=~]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="switch to unix: "]]] c=~]]]
+                      [g=[n=%pre a=~] c=~[[g=[n=%$ a=~[[n=%$ v="$ cd pier/planet/home/web\0a$ mkdir publish\0a$ cd publish\0a"]]] c=~]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="copy over the entire old notes directory into the new planet: "]]] c=~]]]
+                      [g=[n=%pre a=~] c=~[[g=[n=%$ a=~[[n=%$ v="cp -r pier/planet-old/home/web/publish/notes .\0a"]]] c=~]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="Hop back into the urbit dojo: "]]] c=~]]]
+                      [g=[n=%pre a=~] c=~[[g=[n=%$ a=~[[n=%$ v="dojo> |commit %home\0adojo> :publish &publish-action [%serve %notes]\0a"]]] c=~]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="That's it. "]]] c=~]]]
+                    ]
+                  ]
+                  \/'I recently needed to recover my urbit notebook from a crashed :publish application. (The state has gotten corrupted somehow. Here is how I recovered it. *NOTE:* You must have an exported copy of your entire notebook\/
+                     before you do this. This is done by mounting your pier\'s %home to unix. Make sure you move it out of the way before you breach your pier. One nice thing I discovered is that this does preserve all the comments.\0a\
+                    0a#### Step 1: Personal Breach (thanks to ~palfun-foslup for this)\0a\0a1) shut down your running ship, archive its directory.\0a\0a2) using bridge, go to the "configure keys" page and check the box for breaking cont
+                    inuity. wait for the transaction to confirm, and then wait another five minutes for good measure: the network needs to know about this. If you have another planet or a comet you can watch for the "~pier has sunk" mes
+                    sage in the terminal.\0a\0a3) using your new keyfile, boot your ship from scratch boot the new pier with your new keys\0a\0a\0a#### Step 2: Notebook Recovery\0a\0a\0a[the following assumes that you have your old pier
+                     archived in pier/planet-old, your reborn planet is in pier/planet and your notebook is named "notes"]\0a\0async your home dir out to unix in the dojo: \0a\0a```\0adojo> |mount %home\0a```\0a\0aswitch to unix:\0a\0a`
+                    ``\0a$ cd pier/planet/home/web\0a$ mkdir publish\0a$ cd publish\0a```\0a\0acopy over the entire old notes directory into the new planet:\0a\0a```\0acp -r pier/planet-old/home/web/publish/notes .\0a```\0a\0aHop back i
+                    nto the urbit dojo: \0a\0a```\0adojo> |commit %home\0adojo> :publish &publish-action [%serve %notes]\0a```\0a\0aThat\'s it.\0a\0a\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%laicity
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='laicity' collection=%winter-is-here filename=%laicity comments=%open date-created=~2019.8.24..01.18.23..8d41 last-modified=~2019.8.24..01.20.37..268a pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%blockquote a=~]
+                          c
+                        ~[
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"But here I must ask a key question: if religion is, as Bill says, an essential, deeply rooted aspect of human nature that answers “deep human needs that cannot otherwise be met”, how, then, can a\/
+                                        n entire generation of civilized and educated people simply discard it? "
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                            ]
+                          ]
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"My answer is that they can’t, and more importantly, they haven’t — however much they may think they have. What has happened instead is that in the space of less than a century, Western Christiani\/
+                                        ty has mutated into a new and pernicious form... "
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="This is from "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://malcolmpollack.com/2018/01/16/on-laicite-and-the-cryptoreligion-of-the-modern- west/"]]] c=~[[g=[n=%$ a=~[[n=%$ v="“On Laicity And The Cryptoreligion Of the Modern West”"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" on Malcom Pollack's blog. Clearly another UR reader. "]]] c=~]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'> But here I must ask a key question: if religion is, as Bill says, an essential, deeply rooted aspect of human nature that answers “deep human needs that cannot otherwise be met”, how, then, can an entire generatio\/
+                    n of civilized and educated people simply discard it?\0a\0a  My answer is that they can’t, and more importantly, they haven’t — however much they may think they have. What has happened instead is that in the space of
+                     less than a century, Western Christianity has mutated into a new and pernicious form...\0a\0aThis is from ["On Laicity And The Cryptoreligion Of the Modern West"](http://malcolmpollack.com/2018/01/16/on-laicite-and-
+                    the-cryptoreligion-of-the-modern- west/) on Malcom Pollack\'s blog. Clearly another UR reader.\0a\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%accidents
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='accidents' collection=%winter-is-here filename=%accidents comments=%open date-created=~2019.8.4..22.07.27..73c2 last-modified=~2019.8.4..22.07.27..73c2 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="“That's the thing about accidents, Piglet. You never know you're having them until you're having them.”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="-- Eeyore, A. A. Milne "]]] c=~]]]
+                    ]
+                  ]
+                  '"That\'s the thing about accidents, Piglet. You never know you\'re having them until you\'re having them."\0a\0a-- Eeyore, A. A. Milne\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%innovation
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='innovation' collection=%winter-is-here filename=%innovation comments=%open date-created=~2019.8.14..16.15.53..87c9 last-modified=~2019.8.14..16.15.53..87c9 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                        c=~[[g=[n=%$ a=~[[n=%$ v="This is a re-post from my old weblog, "]]] c=~] [g=[n=%$ a=~[[n=%$ v="“It's all semantics.”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" Originally posted 6/29/2004. Still true today. ;) "]]] c=~]]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="I was reading an article in "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://www.enterprise-architect.net"]]] c=~[[g=[n=%$ a=~[[n=%$ v="Enterprise Architect"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" magazine and came across the following quote, "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%blockquote a=~]
+                        c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="“Software as a service has become viable because of the ability to deploy interoperable SOA built on web services...”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]]]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="This is a common sentiment, which is, unfortunately, completely untrue. "]]] c=~]]]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%a a=~[[n=%href v="http://www.gotdotnet.com/team/dbox/default.asp"]]] c=~[[g=[n=%$ a=~[[n=%$ v="Don Box"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" was the first person I heard completely discredit this meme. He gave a very elegant demonstration (in "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://www.gnu.org/software/emacs/emacs.html"]]] c=~[[g=[n=%$ a=~[[n=%$ v="emacs"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=") to show that web services are nothing but "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://www.opengroup.org/"]]] c=~[[g=[n=%$ a=~[[n=%$ v="UNIX"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" ioctl() stream programming and are thus going on 40 years old: "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“Open a connection, send some text, wait for some text in response, close the connection.”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="What is new is how technologists are thinking about how to design architectures using the UNIX "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://www.opengroup.org/onlinepubs/007908799/xsh/ioctl.html"]]] c=~[[g=[n=%$ a=~[[n=%$ v="ioctl()"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" interface and that's a good thing. "]]] c=~]
+                        ]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="Unfortunately, many people in our industry always seek to emphasize a highlight the "]]] c=~] [g=[n=%$ a=~[[n=%$ v="“new toys.”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]]
+                      [ g=[n=%p a=~]
+                        c=~[[g=[n=%$ a=~[[n=%$ v="Innovation is more than endlessly cranking out new and improved gadgets. It also consists of trying to find the best use of the tools you currently have lying around the shop. "]]] c=~]]
+                      ]
+                    ]
+                  ]
+                  \/'This is a re-post from my old weblog, "It\'s all semantics." Originally posted 6/29/2004. Still true today. ;)\0a\0aI was reading an article in [Enterprise Architect](http://www.enterprise-architect.net) magazine an\/
+                    d came across the following quote,\0a\0a> "Software as a service has become viable because of the ability to deploy interoperable SOA built on web services..."\0a\0aThis is a common sentiment, which is, unfortunately
+                    , completely untrue.\0a\0a[Don Box](http://www.gotdotnet.com/team/dbox/default.asp) was the first person I heard completely discredit this meme.\0aHe gave a very elegant demonstration (in [emacs](http://www.gnu.org/s
+                    oftware/emacs/emacs.html)) to show that web services\0aare nothing but [UNIX](http://www.opengroup.org/) ioctl() stream programming and are thus going on 40 years old:\0a"Open a connection, send some text, wait for s
+                    ome text in response, close the connection."\0a\0aWhat is new is how technologists are thinking about how to design architectures using the\0aUNIX [ioctl()](http://www.opengroup.org/onlinepubs/007908799/xsh/ioctl.htm
+                    l) interface and that\'s a good thing.\0a\0aUnfortunately, many people in our industry always seek to emphasize a highlight the "new toys."\0a\0aInnovation is more than endlessly cranking out new and improved gadgets
+                    .\0aIt also consists of trying to find the best use of the tools you currently have lying around the shop.\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%populism
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='populism' collection=%winter-is-here filename=%populism comments=%open date-created=~2019.8.23..00.44.48..fea8 last-modified=~2019.8.23..00.44.48..fea8 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%blockquote a=~]
+                          c
+                        ~[
+                          [g=[n=%p a=~] c=~[[g=[n=%b a=~] c=~[[g=[n=%$ a=~[[n=%$ v="Populism Is a Door That Swings Both Ways"]]] c=~]]] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]]
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"Let me introduce you to Andrés Manuel López Obrador, who became president of Mexico in January of this year. He’s a populist of the left. I bring him up because there’s a misperception in the US,\/
+                                         and even in Europe, that populism is a pathology of the right, appealing to low but deeply-rooted prejudices about race and nation. "
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                            ]
+                          ]
+                          [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="In fact, populism swings both ways. "]]] c=~]]]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="From "]]] c=~]
+                          [ g=[n=%a a=~[[n=%href v="https://thefifthwave.wordpress.com/2019/04/16/populism-and-the-trauma-of-history/"]]]
+                            c=~[[g=[n=%$ a=~[[n=%$ v="“Populism and the trauma of history”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" found at the fifth wave"]]] c=~]]
+                          ]
+                          [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'> *Populism Is a Door That Swings Both Ways*\0a\0a  Let me introduce you to Andrés Manuel López Obrador, who became president of Mexico in January of this year.  He’s a populist of the left.  I bring him up because \/
+                    there’s a misperception in the US, and even in Europe, that populism is a pathology of the right, appealing to low but deeply-rooted prejudices about race and nation.\0a\0a  In fact, populism swings both ways.\0a\0aF
+                    rom ["Populism and the trauma of history" found at the fifth wave](https://thefifthwave.wordpress.com/2019/04/16/populism-and-the-trauma-of-history/)\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%cache
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='cache' collection=%winter-is-here filename=%cache comments=%open date-created=~2019.8.15..15.26.09..2ec1 last-modified=~2019.8.15..15.26.09..2ec1 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="Two of the most difficult problems in Computer Science are caching and parallelism. "]]] c=~]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="I have seen many computer systems have problems as the result of poor caching. In addition, they are frequently the hardest to decipher and fix. "]]] c=~]]]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="Mark Nottingham has published "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://www.mnot.net/blog/2009/02/24/unintended_caching"]]] c=~[[g=[n=%$ a=~[[n=%$ v="a nice article on HTTP caching"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=", "]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v="“Caching When You Least Expect it”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]
+                        ]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="Here's the main takeaway: "]]] c=~]]]
+                      [ g=[n=%blockquote a=~]
+                          c
+                        ~[
+                          [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="...if you publish personalised content on the Web, it does mean you need to think carefully about caching. "]]] c=~]]]
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [ g=[n=%$ a=~[[n=%$ v="The caching model in HTTP wasn’t designed with Cookie authentication in mind. If you assume that no validators and no freshness means no caching, you could be caught out, badly. "]]]
+                                c=~
+                              ]
+                            ]
+                          ]
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [g=[n=%$ a=~[[n=%$ v="This simplest way to fix this is to set a "]]] c=~]
+                              [g=[n=%$ a=~[[n=%$ v="“Cache-Control: private”"]]] c=~]
+                              [g=[n=%$ a=~[[n=%$ v=" directive on all personalised responses that way, shared caches know not to reuse it, while browser caches can still, so that user experience isn’t impacted. "]]] c=~]
+                            ]
+                          ]
+                          [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="“Cache-Control: no-store”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" also works, but it will avoid the browser cache as well. "]]] c=~]]]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'Two of the most difficult problems in Computer Science are caching and parallelism.\0a\0aI have seen many computer systems have problems as the result of poor caching.  In addition, they are frequently the hardest t\/
+                    o decipher and fix.\0a\0aMark Nottingham has published [a nice article on HTTP caching](http://www.mnot.net/blog/2009/02/24/unintended_caching), "Caching When You Least Expect it"\0a\0aHere\'s the main takeaway:\0a\0
+                    a> ...if you publish personalised content on the Web, it does mean you need to think carefully about caching.\0a\0a  The caching model in HTTP wasn’t designed with Cookie authentication in mind. If you assume that no
+                     validators\0a  and no freshness means no caching, you could be caught out, badly.\0a\0a  This simplest way to fix this is to set a "Cache-Control: private" directive on all personalised responses\0a  that way, share
+                    d caches know not to reuse it, while browser caches can still, so that user experience isn’t impacted.\0a\0a  "Cache-Control: no-store" also works, but it will avoid the browser cache as well.\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%polarize
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='polarize' collection=%winter-is-here filename=%polarize comments=%open date-created=~2019.8.21..20.42.29..7c4a last-modified=~2019.8.21..20.42.29..7c4a pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="Another of my favorite bloggers in "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="http://www.arnoldkling.com/"]]] c=~[[g=[n=%$ a=~[[n=%$ v="Arnold Kling"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=". He received a PhD in economics from MIT, but made a killing in the first internet bubble and now primarily just blogs. "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="He recently wrote an interesting article called "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="https://www.libertarianism.org/columns/how-we-polarize-ourselves"]]] c=~[[g=[n=%$ a=~[[n=%$ v="“How We Polarize Ourselves”"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=". "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%blockquote a=~]
+                          c
+                        ~[
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"Political scientist Lilliana Mason has studied trends in opinion surveys and found that in recent decades Democratic voters and Republican voters have become much more antagonistic toward one ano\/
+                                        ther, even though on issues their views have not hardened significantly. In my observation, when it comes to politics, Americans no longer view those who disagree with them as decent individuals l
+                                        ike themselves. Instead, we see political disagreement as a threat, and we regard those on the other side as deliberately out to cause harm. "
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'Another of my favorite bloggers in [Arnold Kling](http://www.arnoldkling.com/). He received a PhD in economics from MIT, but made a killing in the first internet bubble and now primarily just blogs.\0a\0aHe recently\/
+                     wrote an interesting article called ["How We Polarize Ourselves"](https://www.libertarianism.org/columns/how-we-polarize-ourselves).\0a\0a> Political scientist Lilliana Mason has studied trends in opinion surveys an
+                    d found that in recent decades  Democratic voters and Republican voters have become much more antagonistic toward one another, even though on issues their views have not hardened significantly.  In my observation, wh
+                    en it comes to politics, Americans no longer view those who disagree with them as decent individuals like themselves.  Instead, we see political disagreement as a threat, and we regard those on the other side as deli
+                    berately out to cause harm.\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%morality
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='morality' collection=%winter-is-here filename=%morality comments=%open date-created=~2019.8.19..19.46.09..8fdf last-modified=~2019.8.19..21.47.25..3861 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="Piggy-backing on "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="/~publish/~minder-folden/random-thoughts/choice"]]] c=~[[g=[n=%$ a=~[[n=%$ v="~minder-folden's post on "]]] c=~] [g=[n=%$ a=~[[n=%$ v="“Choice”"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=", I was recently reading an excellent article by Richard Fernandez entitled "]]] c=~]
+                          [g=[n=%a a=~[[n=%href v="https://pjmedia.com/richardfernandez/terror-without-trust/"]]] c=~[[g=[n=%$ a=~[[n=%$ v="“Without a Stable Moral Currency, There Is Terror Without Trust”"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]
+                        ]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="Richard is a consistently interesting thinker and writer. He is clearly more than a little tech-saavy and he blends that with political analysis in intriguing ways. "]]] c=~]]]
+                      [ g=[n=%blockquote a=~]
+                        c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="The crisis of confidence in Western institutions can be described as a crisis of morality. The public has discovered that many public figures are shams. "]]] c=~]]]]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="and the chilling conclusion... "]]] c=~]]]
+                      [ g=[n=%blockquote a=~]
+                          c
+                        ~[
+                          [ g=[n=%p a=~]
+                              c
+                            ~[
+                              [   g
+                                [ n=%$
+                                    a
+                                  ~[
+                                    [ n=%$
+                                        v
+                                      \/"The instability of moral currency combined with the immutable record-keeping of blockchain systems creates the worst of all possible environments: one in which people are irrefutably responsible \/
+                                        for acts that may become retroactively reprehensible. Today's hero can easily be tomorrow's racist. You live in fear. Just as money is the measuring stick of economic values a stable morality is t
+                                        he necessary metric of political and social action. Without it, you can have terror but not trust. "
+                                      \/                                                                                                                                                                                                    \/
+                                    ]
+                                  ]
+                                ]
+                                c=~
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'Piggy-backing on [~minder-folden\'s post on "Choice"](/~publish/~minder-folden/random-thoughts/choice), I was recently reading an excellent article by Richard Fernandez entitled ["Without a Stable Moral Currency, Th\/
+                    ere Is Terror Without Trust"](https://pjmedia.com/richardfernandez/terror-without-trust/)\0a\0aRichard is a consistently interesting thinker and writer. He is clearly more than a little tech-saavy and he blends that
+                    with political analysis in intriguing ways.\0a\0a> The crisis of confidence in Western institutions can be described as a crisis of morality.\0a  The public has discovered that many public figures are shams.\0a\0aand
+                     the chilling conclusion...\0a\0a> The instability of moral currency combined with the immutable record-keeping of blockchain systems creates the worst of all possible environments: one in which people are irrefutabl
+                    y responsible for acts that may become retroactively reprehensible. Today\'s hero can easily be tomorrow\'s racist. You live in fear. Just as money is the measuring stick of economic values a stable morality is the n
+                    ecessary metric of political and social action.  Without it, you can have terror but not trust.\0a \0a\0a\0a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+        }
+          com
+        { [ p=%generalizations
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~winter-paches collection=%winter-is-here post=%generalizations date-created=~2019.8.8..12.01.10..8b3e last-modified=~2019.8.8..12.01.10..8b3e]
+                    'thanks. yeah, back in the day Clay was one of the "deep thinkers" about the internet.'
+                  ]
+                  [ [creator=~minder-folden collection=%winter-is-here post=%generalizations date-created=~2019.8.7..15.06.54..8cf8 last-modified=~2019.8.7..15.06.54..8cf8]
+                    'I have a whole chapter about syllogisms and logic in my book. That was a cool article!'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [ p=%rush
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~sicdev-pilnup collection=%winter-is-here post=%rush date-created=~2019.8.8..04.10.09..d4b7 last-modified=~2019.8.8..04.10.09..d4b7]
+                    'I could image also people who have been put out of work by automation/computers might be trying to "if you can\'t beat\'m join them"'
+                  ]
+                  [ [creator=~palfun-foslup collection=%winter-is-here post=%rush date-created=~2019.8.8..00.34.51..b332 last-modified=~2019.8.8..00.34.51..b332]
+                    'People say "sex sells". But, honestly, "computer sells" works just as well.'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [p=%freedom q=[bone=485 dat=[%.y p=~]]]
+          [ p=%begin
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~sitful-hatred collection=%winter-is-here post=%begin date-created=~2019.8.11..19.46.36..543a last-modified=~2019.8.11..19.46.36..543a]
+                    'you\'ve certainly gotten this before, but you\'ve got a really great planet name'
+                  ]
+                  [ [creator=~minder-folden collection=%winter-is-here post=%begin date-created=~2019.8.2..22.00.13..aadc last-modified=~2019.8.2..22.00.13..aadc]
+                    \/'I\'m on a digitalocean droplet. I\'m a complete n00b. I didn\'t understand that typing in the password shows no feedback so I thought my terminal was broken. For a couple DAYS until someone pointed it out. I stuck\/
+                       with it b/c my brain is wired to enjoy wonky problems like this. Having said all that, I probably would have enjoyed push button functionality even more. X^D Glad people who know how to make that happen are active
+                      ly working on solutions.'
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                  [ [creator=~winter-paches collection=%winter-is-here post=%begin date-created=~2019.8.2..20.40.52..c576 last-modified=~2019.8.2..20.40.52..c576]
+                    \/'yeah, thanks, ~sicdev. i am going to be working on updating that code so that it can do exactly that and deploy to digital ocean, linode, &c. Believe it or not AWS was actually harder because of all the abstractio\/
+                      ns they put in place, the auth, &c.'
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                  [ [creator=~sicdev-pilnup collection=%winter-is-here post=%begin date-created=~2019.8.2..19.54.22..e930 last-modified=~2019.8.2..19.54.22..e930]
+                    \/'>Automation scripts to get you quickly up and running and then manage a cloud-hosted Urbit\0a\0aI\'m looking forward to the day I can "give" some an Urbit planet and the getting started phase can be described as c\/
+                      lick here. Great post'
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                  [[creator=~winter-paches collection=%winter-is-here post=%begin date-created=~2019.8.2..16.42.04..abd1 last-modified=~2019.8.2..16.42.04..abd1] 'thanks, guys. exciting to see urbit really starting to "work." :)']
+                  [ [creator=~minder-folden collection=%winter-is-here post=%begin date-created=~2019.8.2..16.16.52..9083 last-modified=~2019.8.2..16.16.52..9083]
+                    '>I understand that nobody wants data; they want Information.\0aAmen to that! Data + Value = Information'
+                  ]
+                  [[creator=~palfun-foslup collection=%winter-is-here post=%begin date-created=~2019.8.2..16.08.58..e75c last-modified=~2019.8.2..16.08.58..e75c] '> man-holding-head-in-hand.png\0a\0aah, i see you too work with computers']
+                ]
+              ]
+            ]
+          ]
+          [ p=%waiting
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~minder-folden collection=%winter-is-here post=%waiting date-created=~2019.8.16..21.43.59..3be6 last-modified=~2019.8.16..21.43.59..3be6]
+                    'You might enjoy this TED talk. https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [ p=%recover
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~winter-paches collection=%winter-is-here post=%recover date-created=~2019.9.3..19.00.18..1aff last-modified=~2019.9.3..19.00.18..1aff] 'yes']
+                  [ [creator=~minder-folden collection=%winter-is-here post=%recover date-created=~2019.9.3..18.55.27..3be7 last-modified=~2019.9.3..18.55.27..3be7]
+                    'Would I be able to upload the folder contents to the new pier via FTP, and then run the commit and then publish actions via dojo?'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [p=%laicity q=[bone=65 dat=[%.y p=~]]]
+          [ p=%accidents
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~winter-paches collection=%winter-is-here post=%accidents date-created=~2019.8.5..13.59.49..b4fa last-modified=~2019.8.5..13.59.49..b4fa]
+                    'yeah. one of my all-time favorites. Milne was a genius. Writing "children\'s books" that also teach so subtlely like that is probably a special form of "persuasion."'
+                  ]
+                  [[creator=~minder-folden collection=%winter-is-here post=%accidents date-created=~2019.8.5..13.56.33..6d4a last-modified=~2019.8.5..13.56.33..6d4a] 'I have, ~winter; it\'s great. ']
+                  [[creator=~winter-paches collection=%winter-is-here post=%accidents date-created=~2019.8.5..13.54.19..d932 last-modified=~2019.8.5..13.54.19..d932] ':) \0a\0aHave you read "The Tao of Pooh" by Benjamin Hoff?']
+                  [[creator=~bannum-magtus collection=%winter-is-here post=%accidents date-created=~2019.8.4..22.53.20..fc93 last-modified=~2019.8.4..22.53.20..fc93] 'Eeyore is my spirit animal']
+                ]
+              ]
+            ]
+          ]
+          [p=%innovation q=[bone=65 dat=[%.y p=~]]]
+          [p=%populism q=[bone=65 dat=[%.y p=~]]]
+          [p=%cache q=[bone=65 dat=[%.y p=~]]]
+          [ p=%polarize
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~winter-paches collection=%winter-is-here post=%polarize date-created=~2019.8.23..00.51.07..3785 last-modified=~2019.8.23..00.51.07..3785]
+                    \/'agreed. i was there when they first appeared and it looked like the would revolutionize the entire publishing and newsgathering world. they were co-opted by standards fragmentation and centralization. megacorps. w\/
+                      e have a second chance with urbit.'
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                  [ [creator=~bannum-magtus collection=%winter-is-here post=%polarize date-created=~2019.8.22..12.05.47..4490 last-modified=~2019.8.22..12.05.47..4490]
+                    'blogs are a great form of expression, something I think most people should try to run'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [p=%morality q=[bone=65 dat=[%.y p=~]]]
+        }
+        order=[pin=~ unpin=~[%freedom %recover %laicity %populism %polarize %morality %waiting %cache %innovation %generalizations %rush %accidents %begin]]
+        contributors=[mod=%white who={}]
+        subscribers={~hastuc-dibtux ~bannum-magtus ~minder-folden ~rapfyr-diglyt}
+        last-update=~2019.9.4..14.09.08..873f
+      ]
+    ]
+    [ p=%private
+        q
+      [ col=[bone=15 dat=[%.y p=[owner=~winter-paches title='private' filename=%private comments=%open allow-edit=%all date-created=~2019.8.31..13.38.20..d6b0 last-modified=~2019.8.31..13.38.20..d6b0]]]
+          pos
+        { [ p=%first-private-note
+              q
+            [ bone=18
+                dat
+              [ %.y
+                  p
+                [ [creator=~winter-paches title='first private note' collection=%private filename=%first-private-note comments=%open date-created=~2019.8.31..13.41.24..2c05 last-modified=~2019.8.31..13.41.24..2c05 pinned=%.n]
+                  [g=[n=%div a=~] c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="I am not sure what i will do with this, but here goes... "]]] c=~]]]]]
+                  'I am not sure what i will do with this, but here goes...\0a'
+                ]
+              ]
+            ]
+          ]
+        }
+        com={[p=%first-private-note q=[bone=18 dat=[%.y p=~]]]}
+        order=[pin=~ unpin=~[%first-private-note]]
+        contributors=[mod=%white who={}]
+        subscribers={}
+        last-update=~2019.8.31..13.41.24..2c05
+      ]
+    ]
+  }
+    subs
+  { [ p=[~palfun-foslup %urbit-only-exclusive-tweets]
+        q
+      [   col
+        [bone=73 dat=[%.y p=[owner=~palfun-foslup title='urbit-only exclusive tweets' filename=%urbit-only-exclusive-tweets comments=%open allow-edit=%all date-created=~2019.7.24..09.38.43..4f85 last-modified=~2019.7.24..09.38.43..4f85]]]
+          pos
+        { [ p=%first
+              q
+            [ bone=91
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='first' collection=%urbit-only-exclusive-tweets filename=%first comments=%open date-created=~2019.7.24..09.47.55..a33b last-modified=~2019.7.24..09.47.55..a33b pinned=%.n]
+                  [g=[n=%div a=~] c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="gonna memorize my sigil so i can draw it on the walls of bathroom stalls "]]] c=~]]]]]
+                  'gonna memorize my sigil so i can draw it on the walls of bathroom stalls\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%h8
+              q
+            [ bone=614
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='h8' collection=%urbit-only-exclusive-tweets filename=%h8 comments=%open date-created=~2019.8.1..16.23.55..de98 last-modified=~2019.8.1..16.23.55..de98 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="i close the blinds, turn off the lights. draw a sigil on the floor in blood, placing microphones along its periphery, and sit myself down in the middle. "]]] c=~]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="the incantation escapes my mouth before i've fully prepared myself. "]]] c=~] [g=[n=%$ a=~[[n=%$ v="“hey alexa...”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]]
+                    ]
+                  ]
+                  \/'i close the blinds, turn off the lights. draw a sigil on the floor in blood, placing microphones along its periphery, and sit myself down in the middle.\0a\0athe incantation escapes my mouth before i\'ve fully prepa\/
+                    red myself. "hey alexa..."\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%zeis
+              q
+            [ bone=457
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='zeis' collection=%urbit-only-exclusive-tweets filename=%zeis comments=%open date-created=~2019.7.28..19.25.28..5e40 last-modified=~2019.7.28..19.28.21..1500 pinned=%.n]
+                  [g=[n=%div a=~] c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="every planet has one master ticket whose derived +code is exactly equivalent. if you find it, and use it to log in, you upgrade to a galaxy. "]]] c=~]]]]]
+                  'every planet has one master ticket whose derived +code is exactly equivalent. if you find it, and use it to log in, you upgrade to a galaxy.\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%quinte
+              q
+            [ bone=382
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='quinte' collection=%urbit-only-exclusive-tweets filename=%quinte comments=%open date-created=~2019.7.26..21.53.23..1d81 last-modified=~2019.7.26..22.05.29..d517 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [ g=[n=%code a=~]
+                              c
+                            ~[
+                              [   g
+                                [n=%$ a=~[[n=%$ v=":publish &publish-action [%new-post our %urbit-only-exclusive-tweets %quinte 'quinte' %open [[%black ~] [%white [&+our ~ ~]]] 'publishers can break readers\\' web uis, devs pls fix!']"]]]
+                                c=~
+                              ]
+                            ]
+                          ]
+                          [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]
+                        ]
+                      ]
+                    ]
+                  ]
+                  '`:publish &publish-action [%new-post our %urbit-only-exclusive-tweets %quinte \'quinte\' %open [[%black ~] [%white [&+our ~ ~]]] \'publishers can break readers\\\' web uis, devs pls fix!\']`\0a\0a\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%nein
+              q
+            [ bone=716
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='nein' collection=%urbit-only-exclusive-tweets filename=%nein comments=%open date-created=~2019.8.8..05.01.55..7ccc last-modified=~2019.8.8..05.01.55..7ccc pinned=%.n]
+                  [ g=[n=%div a=~]
+                    c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="cant believe we get paid to talk to each other about urbit "]]] c=~]]] [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="if you ever gave tlon money, this is your fault "]]] c=~]]]]
+                  ]
+                  'cant believe we get paid to talk to each other about urbit\0a\0aif you ever gave tlon money, this is your fault\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%lucky--7
+              q
+            [ bone=540
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='Lucky #7' collection=%urbit-only-exclusive-tweets filename=%lucky--7 comments=%open date-created=~2019.7.30..18.51.52..2496 last-modified=~2019.7.30..18.51.52..2496 pinned=%.n]
+                  [g=[n=%div a=~] c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="luck and good fortune will come to you, but only if you like and retweet this note "]]] c=~]]]]]
+                  'luck and good fortune will come to you, but only if you like and retweet this note\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%unlucky--13
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='Unlucky #13' collection=%urbit-only-exclusive-tweets filename=%unlucky--13 comments=%open date-created=~2019.8.19..22.07.42..6235 last-modified=~2019.8.19..22.07.42..6235 pinned=%.n]
+                  [g=[n=%div a=~] c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="2020 year of urbit on the desktop "]]] c=~]]]]]
+                  '2020 year of urbit on the desktop\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%iv
+              q
+            [ bone=307
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='IV' collection=%urbit-only-exclusive-tweets filename=%iv comments=%open date-created=~2019.7.26..00.06.02..a250 last-modified=~2019.7.26..00.06.02..a250 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [g=[n=%blockquote a=~] c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="I wish to have my death recorded on the blockchain "]]] c=~]]]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="if you die on the blockchain, you die in real life "]]] c=~]]]
+                    ]
+                  ]
+                  '> I wish to have my death recorded on the blockchain\0a\0aif you die on the blockchain, you die in real life\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%n12
+              q
+            [ bone=825
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='n12' collection=%urbit-only-exclusive-tweets filename=%n12 comments=%open date-created=~2019.8.18..22.44.33..98f5 last-modified=~2019.8.18..22.44.33..98f5 pinned=%.n]
+                  [g=[n=%div a=~] c=~[[g=[n=%img a=~[[n=%src v="https://i.imgur.com/nejOxEW.png"]]] c=~]]]
+                  ';img@"https://i.imgur.com/nejOxEW.png";\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%e11even
+              q
+            [ bone=788
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='e11even' collection=%urbit-only-exclusive-tweets filename=%e11even comments=%open date-created=~2019.8.14..06.26.05..d47b last-modified=~2019.8.14..06.26.05..d47b pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [   g
+                            [ n=%$
+                                a
+                              ~[
+                                [ n=%$
+                                    v
+                                  \/"Interesting to note how my online output has decreased as my real-life output has increased. Wondering if that's a more function of social energy spending, or of time-behind-computer. Also wondering \/
+                                    what has more value in the long run. "
+                                  \/                                                                                                                                                                                                        \/
+                                ]
+                              ]
+                            ]
+                            c=~
+                          ]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [g=[n=%$ a=~[[n=%$ v="Person-to-person communication is a very direct interfacing of brains, which (assuming a Good context) is "]]] c=~]
+                          [g=[n=%i a=~] c=~[[g=[n=%$ a=~[[n=%$ v="the"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" most powerful way to do thoughts. "]]] c=~]
+                        ]
+                      ]
+                      [ g=[n=%p a=~]
+                          c
+                        ~[
+                          [   g
+                            [ n=%$
+                                a
+                              ~[
+                                [ n=%$
+                                    v
+                                  \/"But person-to-machine-to-person has the benefit of being a potentially very long-lasting, very wide-range communication method. My thoughts might not be communicated as clearly, and there's very litt\/
+                                    le I can do to check/correct your understanding (just "
+                                  \/                                                                                                                                                                                                        \/
+                                ]
+                              ]
+                            ]
+                            c=~
+                          ]
+                          [g=[n=%$ a=~[[n=%$ v="“git gud at writing”"]]] c=~]
+                          [g=[n=%$ a=~[[n=%$ v=" I guess), but I can cast a very wide net, which "]]] c=~]
+                          [g=[n=%i a=~] c=~[[g=[n=%$ a=~[[n=%$ v="might"]]] c=~]]]
+                          [g=[n=%$ a=~[[n=%$ v=" be enough for expected returns to be on-par with person-to-person in optimal cases. "]]] c=~]
+                        ]
+                      ]
+                    ]
+                  ]
+                  \/'Interesting to note how my online output has decreased as my real-life output has increased. Wondering if that\'s a more function of social energy spending, or of time-behind-computer. Also wondering what has more v\/
+                    alue in the long run.\0a\0aPerson-to-person communication is a very direct interfacing of brains, which (assuming a Good context) is _the_ most powerful way to do thoughts.\0a\0aBut person-to-machine-to-person has th
+                    e benefit of being a potentially very long-lasting, very wide-range communication method. My thoughts might not be communicated as clearly, and there\'s very little I can do to check/correct your understanding (just
+                    "git gud at writing" I guess), but I can cast a very wide net, which _might_ be enough for expected returns to be on-par with person-to-person in optimal cases.\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%s2nd
+              q
+            [ bone=180
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='s2nd' collection=%urbit-only-exclusive-tweets filename=%s2nd comments=%open date-created=~2019.7.24..21.24.25..a5af last-modified=~2019.7.24..21.29.33..0b2c pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="might be fun to become the @dril of urbit "]]] c=~]]]
+                      [ g=[n=%p a=~]
+                        c=~[[g=[n=%$ a=~[[n=%$ v="“100 years ago i looked at the first ever implementation of nock and i said out loud that that shit was going to make $99,000,000,000,000”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]
+                      ]
+                      [ g=[n=%p a=~]
+                        c=~[[g=[n=%$ a=~[[n=%$ v="“you think my hoon looks nice? no it doesnt! i look like SHIT!! you dont know anything about Hoon style. youre only saying that to FUCK me”"]]] c=~] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]
+                      ]
+                      [g=[n=%p a=~] c=~[[g=[n=%a a=~[[n=%href v="https://twitter.com/dril/status/1141735072455778305"]]] c=~[[g=[n=%$ a=~[[n=%$ v="embed this tweet or i will sink a ship"]]] c=~]]] [g=[n=%$ a=~[[n=%$ v=" "]]] c=~]]]
+                    ]
+                  ]
+                  \/'might be fun to become the @dril of urbit\0a\0a"100 years ago i looked at the first ever implementation of nock and i said out loud that that shit was going to make $99,000,000,000,000"\0a\0a"you think my hoon looks\/
+                     nice? no it doesnt! i look like SHIT!! you dont know anything about Hoon style. youre only saying that to FUCK me"\0a\0a[embed this tweet or i will sink a ship](https://twitter.com/dril/status/1141735072455778305)\0
+                    a\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%for-teen
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='for-teen' collection=%urbit-only-exclusive-tweets filename=%for-teen comments=%open date-created=~2019.8.22..18.45.00..e765 last-modified=~2019.8.22..18.45.00..e765 pinned=%.n]
+                  [g=[n=%div a=~] c=~[[g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="should probably write a YA novel about urbit's gradual reclaiming of reality "]]] c=~]]]]]
+                  'should probably write a YA novel about urbit\'s gradual reclaiming of reality\0a'
+                ]
+              ]
+            ]
+          ]
+          [ p=%io
+              q
+            [ bone=722
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='IO' collection=%urbit-only-exclusive-tweets filename=%io comments=%open date-created=~2019.8.8..05.25.29..e1c0 last-modified=~2019.8.8..05.25.29..e1c0 pinned=%.n]
+                  [ g=[n=%div a=~]
+                      c
+                    ~[
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="js is shit, browsers are shit, nobody uses html and it's shit anyway, users will never care, developers have no power, everything is gonna be fine in a couple years "]]] c=~]]]
+                      [g=[n=%p a=~] c=~[[g=[n=%$ a=~[[n=%$ v="reminder that this notebook is a strict no-negativity zone. electron needs to get out and stay out. "]]] c=~]]]
+                    ]
+                  ]
+                  \/'js is shit, browsers are shit, nobody uses html and it\'s shit anyway, users will never care, developers have no power, everything is gonna be fine in a couple years\0a\0areminder that this notebook is a strict no-n\/
+                    egativity zone. electron needs to get out and stay out.\0a'
+                  \/                                                                                                                                                                                                                        \/
+                ]
+              ]
+            ]
+          ]
+          [ p=%three
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                [ [creator=~palfun-foslup title='three' collection=%urbit-only-exclusive-tweets filename=%three comments=%open date-created=~2019.7.25..23.28.39..52ff last-modified=~2019.7.25..23.28.39..52ff pinned=%.n]
+                  [g=[n=%div a=~] c=~[[g=[n=%img a=~[[n=%src v="http://www.eunibikes.com/wp-content/uploads/2015/05/electric-unicycle.png"]]] c=~]]]
+                  ';img@"http://www.eunibikes.com/wp-content/uploads/2015/05/electric-unicycle.png";\0a'
+                ]
+              ]
+            ]
+          ]
+        }
+          com
+        { [p=%n15 q=[bone=65 dat=[%.y p=~]]]
+          [ p=%first
+              q
+            [ bone=91
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~winter-paches collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.8.2..16.50.04..f55e last-modified=~2019.8.2..16.50.04..f55e]
+                    \/'It will be very interesting if in the future there are planet names and sigils that can command significantly higher prices. \0a\0aAt first glance it seems like it, but in my experience, once you\'ve got it, almos\/
+                      t any urbit planet name can become a "mental attachment point." It\'s kind of interesting, actually. \0a\0aI\'m not so sure about sigils either. They are so intricate as to be very personal as to like/dislike, imo.
+                      '
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                  [ [creator=~bannum-magtus collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.7.24..21.55.57..9374 last-modified=~2019.7.24..21.55.57..9374]
+                    'the futures primary literaturic theme will move from "man vs machine" to "identity vs planets with cooler sigils"'
+                  ]
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.7.24..21.11.19..ca84 last-modified=~2019.7.24..21.11.19..ca84]
+                    '0_0\0aHadn\'t even thought about tattoos. (I\'ll probably give it a year of consistent usage.)'
+                  ]
+                  [[creator=~nimpun-doller collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.7.24..20.23.29..0830 last-modified=~2019.7.24..20.23.29..0830] 'who will be the first to tattoo their sigil?']
+                  [[creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.7.24..19.24.31..b686 last-modified=~2019.7.24..19.24.31..b686] 'Genius.']
+                  [[creator=~littel-wolfur collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.7.24..17.45.58..91f8 last-modified=~2019.7.24..17.45.58..91f8] '"|hi ~dildul-dabbyr for a good time"']
+                  [[creator=~fabled-faster collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.7.24..17.43.32..ff1d last-modified=~2019.7.24..17.43.32..ff1d] 'lmao']
+                  [ [creator=~wicdev-wisryt collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.7.24..17.24.54..1df3 last-modified=~2019.7.24..17.24.54..1df3]
+                    'a sigil is legally equal to a signature for all contracts and documents'
+                  ]
+                  [ [creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%first date-created=~2019.7.24..17.01.24..c84e last-modified=~2019.7.24..17.01.24..c84e]
+                    'if you\'re here for high-brow content then you need to get out'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [ p=%h8
+              q
+            [ bone=614
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~hidrel-fabtel collection=%urbit-only-exclusive-tweets post=%h8 date-created=~2019.8.1..18.55.58..0160 last-modified=~2019.8.1..18.55.58..0160] 'A+ content, I lol\'d']
+                  [[creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%h8 date-created=~2019.8.1..16.27.07..0ad3 last-modified=~2019.8.1..16.27.07..0ad3] 'The gods are always listening.']
+                ]
+              ]
+            ]
+          ]
+          [ p=%zeis
+              q
+            [ bone=457
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~rovnys-ricfer collection=%urbit-only-exclusive-tweets post=%zeis date-created=~2019.8.8..05.47.41..f7bc last-modified=~2019.8.8..05.47.41..f7bc] 'big if true']
+                  [ [creator=~wicdev-wisryt collection=%urbit-only-exclusive-tweets post=%zeis date-created=~2019.7.29..06.17.43..dd22 last-modified=~2019.7.29..06.17.43..dd22]
+                    'if you take a map of the world and put it on the ground, there is one point on the map which is touching the point it represents'
+                  ]
+                  [ [creator=~haddef-sigwen collection=%urbit-only-exclusive-tweets post=%zeis date-created=~2019.7.29..03.31.12..1baf last-modified=~2019.7.29..03.31.12..1baf]
+                    'Imagine having to run a galaxy. This post brought to you by planet gang'
+                  ]
+                  [[creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%zeis date-created=~2019.7.28..19.29.42..4be5 last-modified=~2019.7.28..19.29.42..4be5] 'don\'t try this at home kids']
+                ]
+              ]
+            ]
+          ]
+          [ p=%quinte
+              q
+            [ bone=382
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%quinte date-created=~2019.7.28..20.38.37..8139 last-modified=~2019.7.28..20.38.37..8139]
+                    'Call me ~minder-bull-in-a-china-shop-folden. Upside is I figured out how to get back on track! Woohoo!'
+                  ]
+                  [[creator=~bannum-magtus collection=%urbit-only-exclusive-tweets post=%quinte date-created=~2019.7.28..00.27.41..1477 last-modified=~2019.7.28..00.27.41..1477] 'twood geet']
+                  [[creator=~haddef-sigwen collection=%urbit-only-exclusive-tweets post=%quinte date-created=~2019.7.27..05.17.45..2067 last-modified=~2019.7.27..05.17.45..2067] 'good tweet']
+                ]
+              ]
+            ]
+          ]
+          [ p=%nein
+              q
+            [ bone=716
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%nein date-created=~2019.8.8..16.30.24..e5d9 last-modified=~2019.8.8..16.30.24..e5d9] 'You get paid? Lemme at some! X^D']
+                  [[creator=~nimpun-doller collection=%urbit-only-exclusive-tweets post=%nein date-created=~2019.8.8..15.29.15..d486 last-modified=~2019.8.8..15.29.15..d486] 'whoops']
+                ]
+              ]
+            ]
+          ]
+          [p=%six10 q=[bone=65 dat=[%.y p=~]]]
+          [p=%nr15 q=[bone=65 dat=[%.y p=~]]]
+          [ p=%lucky--7
+              q
+            [ bone=540
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~ravmel-ropdyl collection=%urbit-only-exclusive-tweets post=%lucky--7 date-created=~2019.7.31..17.57.51..507b last-modified=~2019.7.31..17.57.51..507b] 'Where\'s the PR for RTs']
+                  [[creator=~fallyn-balfus collection=%urbit-only-exclusive-tweets post=%lucky--7 date-created=~2019.7.31..00.46.58..d6b0 last-modified=~2019.7.31..00.46.58..d6b0] 'i dont care about this content MARK\0aMARK ZUCKERBERG']
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%lucky--7 date-created=~2019.7.30..20.21.15..13da last-modified=~2019.7.30..20.21.15..13da]
+                    'Dangit. Hopefully I can ensure my good luck returns in future updates to notebook functionality. Until then, thanks for the curse.'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [ p=%unlucky--13
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~mignyx-linnut collection=%urbit-only-exclusive-tweets post=%unlucky--13 date-created=~2019.8.22..01.11.22..c938 last-modified=~2019.8.22..01.11.22..c938] '2020 year of urbit on da e-ink cereal box display ']
+                  [[creator=~haddef-sigwen collection=%urbit-only-exclusive-tweets post=%unlucky--13 date-created=~2019.8.20..17.28.34..6e4b last-modified=~2019.8.20..17.28.34..6e4b] 'year of urbit in the bloodstream']
+                  [[creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%unlucky--13 date-created=~2019.8.20..13.15.27..c407 last-modified=~2019.8.20..13.15.27..c407] '2020 year of urbit on the HUD']
+                  [ [creator=~winter-paches collection=%urbit-only-exclusive-tweets post=%unlucky--13 date-created=~2019.8.20..12.55.15..9a72 last-modified=~2019.8.20..12.55.15..9a72]
+                    'Actually, my hope is that urbit destroys once and for all the *concept* of a computing workspace as a "desktop." Kill all the outdated metaphors. Think outside the wooden work surface. ;)'
+                  ]
+                  [[creator=~mignyx-linnut collection=%urbit-only-exclusive-tweets post=%unlucky--13 date-created=~2019.8.20..00.02.43..ec37 last-modified=~2019.8.20..00.02.43..ec37] 'OH????? ON MOON????']
+                ]
+              ]
+            ]
+          ]
+          [ p=%iv
+              q
+            [ bone=307
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%iv date-created=~2019.7.29..22.23.31..675c last-modified=~2019.7.29..22.23.31..675c] '~taglux is a smarter man than i am']
+                  [ [creator=~taglux-nidsep collection=%urbit-only-exclusive-tweets post=%iv date-created=~2019.7.29..22.06.36..1697 last-modified=~2019.7.29..22.06.36..1697]
+                    'I choose to interpret \'blockquote\' as a pun in this context.'
+                  ]
+                  [ [creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%iv date-created=~2019.7.26..22.07.19..b73d last-modified=~2019.7.26..22.07.19..b73d]
+                    'Yes it is ~ravmel. An indicator on the lefthand side would be nice...'
+                  ]
+                  [[creator=~ravmel-ropdyl collection=%urbit-only-exclusive-tweets post=%iv date-created=~2019.7.26..21.32.09..c703 last-modified=~2019.7.26..21.32.09..c703] 'Is that supposed to be a blockquote?']
+                  [[creator=~fallyn-balfus collection=%urbit-only-exclusive-tweets post=%iv date-created=~2019.7.26..21.31.41..99cb last-modified=~2019.7.26..21.31.41..99cb] 'I just died reading this']
+                  [[creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%iv date-created=~2019.7.26..01.14.05..73b6 last-modified=~2019.7.26..01.14.05..73b6] 'Damn ~bannum, that\'s dark as hell. I like it.']
+                  [ [creator=~bannum-magtus collection=%urbit-only-exclusive-tweets post=%iv date-created=~2019.7.26..00.30.09..e021 last-modified=~2019.7.26..00.30.09..e021]
+                    \/'A common problem in movies is that someone will ring up an agency for something, only to be told they\'re actually dead and so the request can\'t be fulfilled (see: Hackers).\0a\0aThis mismatch in state is actuall\/
+                      y trivial to solve forever though, simply create smart contracts for every person, where-upon if their death is logged in the blockchain, they are automatically disposed of irl, bug fixed'
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [p=%n12 q=[bone=825 dat=[%.y p=~]]]
+          [ p=%e11even
+              q
+            [ bone=788
+                dat
+              [ %.y
+                  p
+                ~[
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%e11even date-created=~2019.8.14..14.18.35..1023 last-modified=~2019.8.14..14.18.35..1023]
+                    \/'~haddef; you\'re right, there\'s a lot more bandwidth for information exchange in face to face. What I like about text-only is that it can be there when I can\'t be. I can [potentially] reach millions of people in\/
+                       my sleep with a single tweet, book, or article. I like that.'
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                  [ [creator=~haddef-sigwen collection=%urbit-only-exclusive-tweets post=%e11even date-created=~2019.8.14..14.12.27..a6d2 last-modified=~2019.8.14..14.12.27..a6d2]
+                    \/'The particular refraction of "me-to-text" vs. "me-to-words-and-voice-and-body-language" is something I think about a lot -- I really dislike being text-only. There\'s essentially more interfaces in person-to-perso\/
+                      n interaction, providing more concurrent communication across "people-as-threads" and thus more efficient group operation.'
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%e11even date-created=~2019.8.14..13.22.26..9aa7 last-modified=~2019.8.14..13.22.26..9aa7]
+                    \/'1:Many to create connections. 1:1 to cement them. I have friends all over the world that I stay in touch with via social media, and then enjoy catching up in person whenever life takes me through their area.\0a\0a\/
+                      To the real life)online life productivity point. We go where our efforts are going to do the most good. Here I like being an early adopter/user, and it\'s a fun place to hang out. It\'s like a secret society of awe
+                      some people. It\'s not where my money\'s made, though! When I\'m on the road, my content flow here will dwindle, but I\'ll come back with more experiences/ideas to share. It\'s an ebb & flow kind of thing.\0a\0aPS:
+                       How did you do the italics in the text? I wind up breaking my notebook when I try to add styling elements.'
+                    \/                                                                                                                                                                                                                      \/
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [ p=%s2nd
+              q
+            [ bone=180
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~littel-wolfur collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.27..21.02.11..5568 last-modified=~2019.7.27..21.02.11..5568] 'https://twitter.com/dril/status/922321981?lang=en']
+                  [[creator=~littel-wolfur collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.27..04.43.50..cf42 last-modified=~2019.7.27..04.43.50..cf42] 'https://twitter.com/dril/status/922321981']
+                  [[creator=~littel-wolfur collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.27..04.33.31..7d22 last-modified=~2019.7.27..04.33.31..7d22] 'https://twitter.com/dril/status/922321981']
+                  [[creator=~littel-wolfur collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.26..04.26.42..e417 last-modified=~2019.7.26..04.26.42..e417] 'https://twitter.com/dril/status/922321981']
+                  [[creator=~littel-wolfur collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.26..03.36.46..fc9a last-modified=~2019.7.26..03.36.46..fc9a] 'https://twitter.com/dril/status/922321981']
+                  [ [creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.25..19.00.11..ea2c last-modified=~2019.7.25..19.00.11..ea2c]
+                    '[dril will never not be relevant](https://twitter.com/dril/status/1154463925989023744)'
+                  ]
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.25..16.48.47..0be3 last-modified=~2019.7.25..16.48.47..0be3]
+                    'I\'d never heard of @dril before this; thanks for making my world bigger.'
+                  ]
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.25..16.48.43..e9e5 last-modified=~2019.7.25..16.48.43..e9e5]
+                    'Before seeing this post I had never heard of @dril. Thanks for making my world bigger. ::high five::'
+                  ]
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.25..16.48.42..1f72 last-modified=~2019.7.25..16.48.42..1f72]
+                    'Until this post I had never heard of @dril. Thanks for making my world bigger.'
+                  ]
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.25..16.48.41..00aa last-modified=~2019.7.25..16.48.41..00aa]
+                    'I\'d never heard of @dril. Thanks for making my world a bigger place. '
+                  ]
+                  [ [creator=~bannum-magtus collection=%urbit-only-exclusive-tweets post=%s2nd date-created=~2019.7.24..21.57.28..a9ae last-modified=~2019.7.24..21.57.28..a9ae]
+                    '"in the market for a planet with a sigil that has loss on it"'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [ p=%for-teen
+              q
+            [ bone=65
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%for-teen date-created=~2019.8.28..15.07.50..4ea5 last-modified=~2019.8.28..15.07.50..4ea5] 'test comment']
+                  [ [creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%for-teen date-created=~2019.8.23..10.00.24..c2ec last-modified=~2019.8.23..10.00.24..c2ec]
+                    'i used to think a lot about software/tooling for publishing stories to the web easily. may want to pick those thoughts back up, bring multi-media webfiction to urbit!'
+                  ]
+                  [[creator=~fabled-faster collection=%urbit-only-exclusive-tweets post=%for-teen date-created=~2019.8.22..23.24.14..9035 last-modified=~2019.8.22..23.24.14..9035] 'We need an urbit mangaka as well, an OVA, etc.']
+                  [[creator=~fabled-faster collection=%urbit-only-exclusive-tweets post=%for-teen date-created=~2019.8.22..21.51.40..e9f2 last-modified=~2019.8.22..21.51.40..e9f2] 'YES, MORE UR-FICTION']
+                ]
+              ]
+            ]
+          ]
+          [p=%test-post q=[bone=65 dat=[%.y p=~]]]
+          [ p=%io
+              q
+            [ bone=722
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~norbet-sommud collection=%urbit-only-exclusive-tweets post=%io date-created=~2019.8.10..04.07.58..5f0e last-modified=~2019.8.10..04.07.58..5f0e] 'enjoyin this premium™ content my friend\0a ']
+                  [[creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%io date-created=~2019.8.8..12.35.48..6eb5 last-modified=~2019.8.8..12.35.48..6eb5] 'That\'s the spirit!']
+                  [[creator=~winter-paches collection=%urbit-only-exclusive-tweets post=%io date-created=~2019.8.8..12.17.56..9e0f last-modified=~2019.8.8..12.17.56..9e0f] 'i was about to request a refund. :p']
+                  [ [creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%io date-created=~2019.8.8..05.43.19..b173 last-modified=~2019.8.8..05.43.19..b173]
+                    'I\'ll admit: this content isn\'t as premium as the rest, I posted this to Twitter too. ):'
+                  ]
+                ]
+              ]
+            ]
+          ]
+          [ p=%three
+              q
+            [ bone=302
+                dat
+              [ %.y
+                  p
+                ~[
+                  [[creator=~ravmel-ropdyl collection=%urbit-only-exclusive-tweets post=%three date-created=~2019.7.26..21.40.52..8090 last-modified=~2019.7.26..21.40.52..8090] '`palfun` this looks just like you']
+                  [[creator=~palfun-foslup collection=%urbit-only-exclusive-tweets post=%three date-created=~2019.7.26..10.29.27..6a82 last-modified=~2019.7.26..10.29.27..6a82] '~minder: use udon, as ;img@"url";']
+                  [ [creator=~littel-wolfur collection=%urbit-only-exclusive-tweets post=%three date-created=~2019.7.26..03.26.37..2095 last-modified=~2019.7.26..03.26.37..2095]
+                    'appears as an empty post in the publish homepage. i liked that better.\0a\0agive me credit if you use that. or go even further and just skip a number.'
+                  ]
+                  [ [creator=~minder-folden collection=%urbit-only-exclusive-tweets post=%three date-created=~2019.7.26..01.12.33..41b1 last-modified=~2019.7.26..01.12.33..41b1]
+                    'Wait, wait, wait. ~palfun! How in the world did you get a photo in here?!'
+                  ]
+                  [[creator=~bannum-magtus collection=%urbit-only-exclusive-tweets post=%three date-created=~2019.7.25..23.32.06..45ae last-modified=~2019.7.25..23.32.06..45ae] 'I bet those glasses are running their moon']
+                ]
+              ]
+            ]
+          ]
+        }
+        order=[pin=~ unpin=~[%for-teen %unlucky--13 %n12 %e11even %io %nein %h8 %lucky--7 %zeis %quinte %iv %three %s2nd %first]]
+        contributors=[mod=%white who={}]
+          subscribers
+        { ~poldec-tonteg
+          ~patnes-rigtyn
+          ~winter-paches
+          ~fallyn-balfus
+          ~midlyx-hatrys
+          ~master-morzod
+          ~haddef-sigwen
+          ~nimpun-doller
+          ~mignyt-mogseb
+          ~ridlur-figbud
+          ~fabled-faster
+          ~tiptuc-paclyn
+          ~novlud-padtyv
+          ~bannum-magtus
+          ~minder-folden
+          ~rapfyr-diglyt
+          ~ravmel-ropdyl
+          ~tacryt-socryp
+        }
+        last-update=~2019.9.4..12.41.54..fd4d
+      ]
+    ]
+  }
+  awaiting={}
+    latest
+  ~[
+    [who=~winter-paches coll=%winter-is-here post=%freedom]
+    [who=~winter-paches coll=%winter-is-here post=%recover]
+    [who=~winter-paches coll=%winter-is-here post=%laicity]
+    [who=~winter-paches coll=%winter-is-here post=%populism]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%for-teen]
+    [who=~winter-paches coll=%winter-is-here post=%polarize]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%unlucky--13]
+    [who=~winter-paches coll=%winter-is-here post=%morality]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%n12]
+    [who=~winter-paches coll=%winter-is-here post=%waiting]
+    [who=~winter-paches coll=%winter-is-here post=%cache]
+    [who=~winter-paches coll=%winter-is-here post=%innovation]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%e11even]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%io]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%nein]
+    [who=~winter-paches coll=%winter-is-here post=%generalizations]
+    [who=~winter-paches coll=%winter-is-here post=%rush]
+    [who=~winter-paches coll=%winter-is-here post=%accidents]
+    [who=~winter-paches coll=%winter-is-here post=%begin]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%h8]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%lucky--7]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%zeis]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%quinte]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%iv]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%three]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%s2nd]
+    [who=~palfun-foslup coll=%urbit-only-exclusive-tweets post=%first]
+  ]
+  unread={}
+  invites={[p=[who=~minder-folden coll=%the-new-era] q=title='The New Era']}
+  outgoing={[p=/collection/urbit-only-exclusive-tweets q=65] [p=/collection/the-new-era q=455] [p=/collection/random-thoughts q=65]}
+]
+> :publish %print-state
