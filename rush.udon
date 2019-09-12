@@ -1,7 +1,7 @@
 :-  :~
   [%collection 'winter-is-here']
   [%comments 'open']
-  [%last-modified '~2019.8.5..13.39.17..b4e1']
+  [%last-modified '~2019.9.12..17.40.28..ab6a']
   [%title 'rush']
   [%creator '~winter-paches']
   [%pinned 'false']
@@ -9,6 +9,7 @@
   [%date-created '~2019.8.5..13.39.17..b4e1']
     ==
 ;>
+
 "Walk into any bookstore, and you'll see how to Teach Yourself Java in 7
 Days alongside endless variations offering to teach Visual Basic,
 Windows, the Internet, and so on in a few days or hours.  I did the
@@ -30,4 +31,5 @@ than anything else.  There are no books on how to learn Beethoven, or
 Quantum Physics, or even Dog Grooming in a few days."
 
 -- [Peter Norvig](http://www.norvig.com/21-days.html)
+
 
