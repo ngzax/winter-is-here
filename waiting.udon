@@ -1,7 +1,7 @@
 :-  :~
   [%collection 'winter-is-here']
   [%comments 'open']
-  [%last-modified '~2019.8.16..21.04.30..aabe']
+  [%last-modified '~2019.9.23..17.41.41..6213']
   [%title 'waiting']
   [%creator '~winter-paches']
   [%pinned 'false']
@@ -27,7 +27,10 @@ following in the thread "TDD is Kanban for Code":
   prematurely commit to a design that I later had to unwind before making
   progress."
 
+
 I often tell myself as I code to just let some duplication and/or "smell" live
 there for a bit.  Don't feel like you have to fix everything immediately, but
 rather wait until I can clearly see the commonality, thus resisting the urge to
 "jump to the framework" and instead let it *emerge.*
+
+
