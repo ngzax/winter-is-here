@@ -1,0 +1,17 @@
+:-  :~
+  [%collection 'winter-is-here']
+  [%comments 'open']
+  [%last-modified '~2019.9.24..17.52.20..42a0']
+  [%title 'corruption']
+  [%creator '~winter-paches']
+  [%pinned 'false']
+  [%filename 'corruption']
+  [%date-created '~2019.9.24..17.52.20..42a0']
+    ==
+;>
+This post is probably not about what you think it's about. ;)
+
+One of the things that most of us coders completely take for granted is that our databases just work. You put stuff in, you take stuff out, easy. If the data is messed up it's almost always our fault. *Almost*. 
+
+[This detailed post by Robert Haas, (VP, Chief Architect, Database Server @ EnterpriseDB, PostgreSQL Major Contributor and Committer) entitled "Why Is My Database Corrupted?"](http://rhaas.blogspot.com/2012/03/why-is-my-database-corrupted.html) discusses some of those "non-almosts." If you regularly work with [PostgreSQL](https://www.postgresql.org/) it's definitely worth a read.
+
