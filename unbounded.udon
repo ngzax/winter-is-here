@@ -1,0 +1,33 @@
+:-  :~
+  [%collection 'winter-is-here']
+  [%comments 'open']
+  [%last-modified '~2019.10.4..14.54.32..76e3']
+  [%title 'unbounded']
+  [%creator '~winter-paches']
+  [%pinned 'false']
+  [%filename 'unbounded']
+  [%date-created '~2019.10.4..14.54.32..76e3']
+    ==
+;>
+This is a really interesting article about [Amazon](https://www.amazon.com) that delves into how it "evolved" from [Walmart](https://www.walmart.com) and how it is using the tecnology and the internet to push beyond what is even possible with human coordination.
+
+Urbit is the next frontier. *Truly* distributed coordination. What will be able to be built with urbit that no one can conceive of today?
+
+
+> Walmart can be thought of as a bounded search for the optimal selection, inventory, and pricing of SKUs that a local market could support. It was bound, or constrained, by the characteristics of the local economy, and so each Walmart location was a direct reflection of the local market dynamics.
+
+...
+
+> The advent of the internet – of online shopping – meant that an online retailer had infinite shelf space. While Amazon did not have the capital to stock every SKU on the planet, nor a warehouse large enough to do so, it didn’t have a constraint on the actual ‘shelves’ themselves. An online retailer would be limited not by each local market, but by the economics and behavior of the national or international population at large.
+
+...
+
+> Bezos, in other words, wanted to build an _unbounded_ Walmart. ... And with this insight, Amazon did not need to be nearly as good – let alone better – than Walmart at Walmart’s masterful game of vendor and SKU selection. Amazon just needed to be faster at aggregating SKUs – and therefore faster at onboarding vendors.
+
+...
+
+> Amazon, by contrast, is an illustration of what happens when a massive global market is freed by the internet from the geographical constraints that previously kept it manageable; it is an illustration of what happens when you enter a problem space so large that you have to bypass the human element altogether. What was just barely solvable with carefully-built systems at Walmart’s scale of shelf space would have been impossible to solve with shelf space that stretched on to infinity. Amazon had to find a way of abdicating responsibility for solving these problems altogether; with Marketplace, Amazon had begun to grasp at a solution that would do exactly that.
+
+  -- from ["What is Amazon?" by Zach Kanter](https://zackkanter.com/2019/03/13/what-is-amazon/)
+
+
