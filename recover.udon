@@ -1,7 +1,7 @@
 :-  :~
   [%collection 'winter-is-here']
   [%comments 'open']
-  [%last-modified '~2019.9.3..18.46.41..abd6']
+  [%last-modified '~2019.10.11..19.39.36..c648']
   [%title 'recover']
   [%creator '~winter-paches']
   [%pinned 'false']
@@ -53,6 +53,5 @@ dojo> :publish &publish-action [%serve %notes]
 ```
 
 That's it.
-
 
 

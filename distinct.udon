@@ -1,7 +1,7 @@
 :-  :~
   [%collection 'winter-is-here']
   [%comments 'open']
-  [%last-modified '~2019.9.17..15.51.45..8aa4']
+  [%last-modified '~2019.10.11..19.23.21..622e']
   [%title 'distinct']
   [%creator '~winter-paches']
   [%pinned 'false']
@@ -9,79 +9,13 @@
   [%date-created '~2019.9.17..15.51.45..8aa4']
     ==
 ;>
-This is another old post from my legacy weblog which discusses an interesting SQL (PostgreSQL specifically) problem that arises when you (mistakenly) allow duplicate rows in a table.
+This post is probably not about what you think it's about. ;)
 
----
+One of the things that most of us coders completely take for granted is that our databases just work. You put stuff in, you take stuff out, easy. If the data is messed up it's almost always our fault. *Almost*. 
 
-In the course of trying to answer a question for my wife this evening, I ran across an interesting type of query that, though it would
-seem simple and common, did take me a moment to figure out the best approach.
+[This detailed post by Robert Haas, (VP, Chief Architect, Database Server @ EnterpriseDB, PostgreSQL Major Contributor and Committer) entitled "Why Is My Database Corrupted?"](http://rhaas.blogspot.com/2012/03/why-is-my-database-corrupted.html) discusses some of those "non-almosts." If you regularly work with [PostgreSQL](https://www.postgresql.org/) it's definitely worth a read.
 
-She had a very large set of (poorly cleaned) data that she needed to know how many of each unique set were present.
-Essentially, the question boils down to "how do you perform a grouping query while simultaneously removing duplicates?"
 
-So, for example, if you had the following data set and wanted to know how many dogs of each color there are?
 
-```
-| kind | color | name  |
-| ---- | ----- | ----- |
-| dog  | black | rover |
-| dog  | black | rover |
-| dog  | white | spot  |
-```
 
-If you were to do the standard GROUP BY:
-
-```
-SELECT
-  A,
-  B,
-  COUNT(C)
-FROM
-  test
-GROUP BY
-  A,
-  B
-ORDER BY
-  A,
-  B;
-```
-
-against this table, you would get the following:
-
-```
-    A     B      COUNT    
-    ----  -----  --------
-    dog   black  2        
-    dog   white  1        
-```
-
-However, as discussed above, my wife didn't want that duplicate dog counted.  
-
-Here's the query I used (in PostgreSQL) to achieve that:
-
-```
-SELECT
-  A,
-  B,
-  COUNT(B)
-FROM
-  (SELECT DISTINCT A, B, C FROM test) AS t
-GROUP BY
-  A,
-  B
-ORDER BY
-  A,
-  B;
-```
-
-resulting in:
-
-```
-    A     B      COUNT    
-    ----  -----  --------
-    dog   black  1
-    dog   white  1
-```
-
-Of course, the reason this rarely comes up is because, with good data/models, you really shouldn't have duplicate rows, but you don't always control that.  :)
 

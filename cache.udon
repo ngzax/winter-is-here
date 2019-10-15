@@ -1,7 +1,7 @@
 :-  :~
   [%collection 'winter-is-here']
   [%comments 'open']
-  [%last-modified '~2019.9.17..15.37.23..fac5']
+  [%last-modified '~2019.10.11..19.34.07..50d0']
   [%title 'cache']
   [%creator '~winter-paches']
   [%pinned 'false']
@@ -26,4 +26,6 @@ Here's the main takeaway:
   that way, shared caches know not to reuse it, while browser caches can still, so that user experience isn’t impacted.
 
   "Cache-Control: no-store" also works, but it will avoid the browser cache as well.
+
+
 
