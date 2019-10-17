@@ -1,0 +1,89 @@
+%nets-failed
+%nets-need
+{ hen/?($~ {i// t/it(/)})
+    hic
+  { #t
+      q
+    ?(
+      {$soft p/*}
+      ?(
+        { $dawn
+          seed/{who/@p lyf/@ud key/@ sig/u(@)}
+            spon
+          it(
+            { ship/@p
+                own
+              { owner/@ux
+                management-proxy/@ux
+                voting-proxy/@ux
+                transfer-proxy/@ux
+              }
+                net
+              u(
+                { life/@ud
+                  pass/@
+                  continuity-number/@ud
+                  sponsor/{has/?($.y $.n) who/@p}
+                  escape/u(@p)
+                  }
+                )
+                kid/u({spawn-proxy/@ux spawned/nlr(@p)})
+              }
+            )
+            czar/nlr({p/@p q/{rift/@ud life/@ud pass/@}})
+            turf/?($~ {i/*'' t/it(*'')})
+            bloq/@ud
+              node
+            u(
+              { p/{p/?($.y $.n) q/u(@ud) r/?({$.y p/*''} {$.n p/@if})}
+                q/{p/u(@ta) q/*''}
+                r/it({p/@t q/@t})
+              }
+            )
+          }
+          {$fake ship/@p}
+          {$listen whos/nlr(@p) source/?({$.y p/@p} {$.n p/@tas})}
+          {$meet ship/@p life/@ud pass/@}
+          { $moon
+            ship/@p
+              udiff
+            { id/{hash/@uxblockhash number/@udblocknumber}
+            ?(
+              {$disavow $~}
+              {$keys life/@ud crypto-suite/@ud pass/@}
+              {$rift rift/@ud}
+              {$spon sponsor/u(@p)}
+            )
+          }
+        }
+        {$nuke whos/nlr(@p)}
+        {$private-keys $~}
+        {$public-keys ships/nlr(@p)}
+        {$rekey life/@ud ring/@}
+        {$turf $~}
+        {$trim p/@ud}
+        {$vega $~}
+        {$wegh $~}
+        {$west p/@p q// r/*}
+      )
+    )
+  }
+}
+%nets-have
+{ ?($~ {i// t/it(/)})
+#t
+$look
+  src
+?(
+  {$.y p/@p}
+  { $.n
+      p
+    { p/{p/?($.y $.n) q/u(@ud) r/?({$.y p/*''} {$.n p/@if})}
+      q/{p/u(@ta) q/*''}
+      r/it({p/@t q/@t})
+    }
+  }
+)
+}
+[%swim-lost %j %look]
+                              
