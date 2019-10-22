@@ -1,0 +1,17 @@
+:-  :~
+  [%collection 'winter-is-here']
+  [%comments 'open']
+  [%last-modified '~2019.10.21..20.18.29..fd62']
+  [%title 'gall']
+  [%creator '~winter-paches']
+  [%pinned 'false']
+  [%filename 'gall']
+  [%date-created '~2019.10.21..20.18.29..fd62']
+    ==
+;>
+This is the first post of what I am calling the "gall" era. It is marked by "a full refactoring of %gall, our agent execution vane, that cleans up and de-obfuscates its internals significantly."
+
+https://github.com/urbit/urbit/releases/tag/v0.9.0
+
+Notebook restoration to begin shortly.
+
