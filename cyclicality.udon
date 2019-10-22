@@ -1,7 +1,7 @@
 :-  :~
   [%collection 'winter-is-here']
   [%comments 'open']
-  [%last-modified '~2019.10.11..19.22.26..19a4']
+  [%last-modified '~2019.10.22..16.57.24..9e6c']
   [%title 'cyclicality']
   [%creator '~winter-paches']
   [%pinned 'false']
@@ -9,12 +9,15 @@
   [%date-created '~2019.9.19..19.22.45..a013']
     ==
 ;>
-This post is probably not about what you think it's about. ;)
+If you read or listen to any of the major media sources today you would think that Donald Trump's election was some kind of [Black Swan event](https://strategiccfo.com/black-swan-events/). Totally unpredictable and that no one saw it coming. 
 
-One of the things that most of us coders completely take for granted is that our databases just work. You put stuff in, you take stuff out, easy. If the data is messed up it's almost always our fault. *Almost*. 
+I remember vividly walking to the train on my home from work on the eve of the election and overhearing someone telling their companion, "Don't worry, Hillary has a 99% chance of winning."
 
-[This detailed post by Robert Haas, (VP, Chief Architect, Database Server @ EnterpriseDB, PostgreSQL Major Contributor and Committer) entitled "Why Is My Database Corrupted?"](http://rhaas.blogspot.com/2012/03/why-is-my-database-corrupted.html) discusses some of those "non-almosts." If you regularly work with [PostgreSQL](https://www.postgresql.org/) it's definitely worth a read.
+Now I am not an oracle. I don't even follow politics or the news that closely. (I don't have TV at home at all) But I was willing to tell anyone who asked that I thought that Trump was going to win. I didn't have a particularly good reason for thinking it, it was just a feeling. There was a _mood_ that I could sense everywhere. Even people who to all outside appearance were totally Obama/Hillary supporters always seemed like they *knew* that something was wrong even if they didn't want to say it. There was clearly sand in the gears and Trump was now pointing that out to everyone.
 
+Anyway, here's an article from June 2014 that discusses an event that year that looking back was clearly a premonition.
+ 
+> "This past week saw an event revealing the cluelessness and ignorance of the linear thinking establishment. They are oblivious to the cyclicality of history and unaware of their precarious situation, as the mood of the country and the world portends their demise. Eric Cantor, the ultimate establishment neo-con Republican House Majority Leader, was crushed in a primary by a completely unknown economics professor, outspent by Cantor $4.9 million to $123,000."
 
-
+  -- ["FOURTH TURNING ACCELERATING"](https://washingtonsblog.com/2014/06/fourth-turning-accelerating.html)
 

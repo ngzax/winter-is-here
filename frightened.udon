@@ -1,7 +1,7 @@
 :-  :~
   [%collection 'winter-is-here']
   [%comments 'open']
-  [%last-modified '~2019.10.11..19.20.57..1981']
+  [%last-modified '~2019.10.22..16.51.14..7c32']
   [%title 'frightened']
   [%creator '~winter-paches']
   [%pinned 'false']
@@ -9,10 +9,24 @@
   [%date-created '~2019.9.24..00.40.23..747e']
     ==
 ;>
-This post is probably not about what you think it's about. ;)
+Scott Adams (of [Dilbert](https://dilbert.com) fame) just posted this really excellent take on all the "climate change" hysteria. Coming immediately on the heels of great comments on [my recent poast about the future](/~publish/~winter-paches/winter-is-here/future) I definitely had to share this one.
 
-One of the things that most of us coders completely take for granted is that our databases just work. You put stuff in, you take stuff out, easy. If the data is messed up it's almost always our fault. *Almost*. 
+Here's an excerpt:
 
-[This detailed post by Robert Haas, (VP, Chief Architect, Database Server @ EnterpriseDB, PostgreSQL Major Contributor and Committer) entitled "Why Is My Database Corrupted?"](http://rhaas.blogspot.com/2012/03/why-is-my-database-corrupted.html) discusses some of those "non-almosts." If you regularly work with [PostgreSQL](https://www.postgresql.org/) it's definitely worth a read.
+> Dear Children,
+
+  I’m sorry adults have frightened you about climate change and how it might affect your future. You might be less afraid if you knew some facts that adults intentionally do not explain to you. I’ll tell you here.
+
+  The news was once a source of real information, or so we thought. But in the modern world, the news people discovered they can make more money by presenting scary news regardless of whether it is true or not. Today, much of the news on the right and the left is opinion that is meant to scare you, not inform you, because scary things get more attention, and that makes the news business more profitable. The same is true for people who write books; authors often make books scary so you will buy them. Most adults know all the scariness is not real. Most kids do not. You just learned it.
+
+  Nuclear energy used to be dangerous, back in the olden days. Today’s nuclear power plants (the ones built in the past 20 years all over the world) have killed zero people, and are considered the safest form of energy in the world. More people have died installing solar panels and falling off roofs than have died from nuclear power problems anywhere in the world for the past few decades. And nuclear energy is the obvious way to address climate change, say most of the smartest adults in the world, because it can provide abundant, cheap, clean energy with zero carbon emissions.
+
+  -- ["A Message for Children About Climate Change"](https://www.scottadamssays.com/2019/09/23/a-message-for-children-about-climate-change/)
+
+
+The saddest thing is that, indeed, only "most" adults know it. And many of those who do know it are the ones pushing the hoax the hardest.
+
+
+
 
 
