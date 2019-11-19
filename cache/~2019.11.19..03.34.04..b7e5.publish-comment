@@ -1,0 +1,9 @@
+creator: ~batbus-finfyn
+collection: winter-is-here
+post: cache
+date-created: ~2019.11.19..03.34.04..b7e5
+last-modified: ~2019.11.19..03.34.04..b7e5
+-----
+Is there anything in Urbit [yet?] to allow for the concept of caching data at the star and/or galaxy level?  It seems to me that for certain use cases, let's say a very popular and public blog, you'd want to have stars and galaxies serving up the data.  The owner can of course always revoke the right to store that data and delete and I'm guessing there are some cryptographic tools that could be used to store the remote data in an encrypted format and only allow approved subscribers to read it - if that were important to the publisher.
+
+Where does Urbit stand on that as of today? 
