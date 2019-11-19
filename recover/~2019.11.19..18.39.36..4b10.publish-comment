@@ -1,0 +1,7 @@
+creator: ~winter-paches
+collection: winter-is-here
+post: recover
+date-created: ~2019.11.19..18.39.36..4b10
+last-modified: ~2019.11.19..18.39.36..4b10
+-----
+Thanks. NOTE: I am not sure the status of this right now, but after i wrote this the first time, ~minder-folden and i determined that if you didn't actually create your notebook via landscape first, people couldn't subscribe later. So the process became: 1) create notebook with same name in Landscape, 2) unserve, 3) copy, 4) commit, 5) serve.
