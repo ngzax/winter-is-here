@@ -1,0 +1,21 @@
+creator: ~batbus-finfyn
+collection: winter-is-here
+post: cache
+date-created: ~2019.11.20..02.59.01..c34a
+last-modified: ~2019.11.20..02.59.01..c34a
+-----
+You can't... at least I think you can't.  Isn't that the unsolvable problem DRM seeks to solve but never can?  If you give someone digital content you are giving them the means to decrypt it and therefore copy it.  No matter what kind of black box you try to build to give someone only temporary ability to decrypt content, you've handed them the keys to decrypt it.  In the most crude example you can always take a photograph or video of another screen.  
+
+But this is kind of a separate issue from what I was saying before.  Right now if I understand correctly when I am reading your notebook I am loading it directly from your "ship".  When I post this comment it's stored on your "ship" and nowhere else.  However anybody that subscribes to your notebook can screen shot it, cut and paste the articles, save the HTML directly, etc.  The caching doesn't really exacerbate this issue, it would just speed up the experience for a higher traffic notebook right? 
+
+Is there perhaps some way to have build a reputational caching system as a service?  You build in rules that say when requested you must stop caching, you must delete old caches, you must stop sharing etc and there is some way to determine if the roles are being respected and that's a good cache to use, as long as it's good you use it.  If not you stop sending it new content and use a different one.  It seems to me that anyone who is subscribed can always copy the content until their subscription has been revoked, but if you have a permissioned encyrpted subscriber system, the caches could not read the content, they could only serve it and potentially serve it after you don't want them to anymore. 
+
+Am I way off base here? 
+
+I understand the desire for "temporal" and I guess you can work that out too in theory with some kind of cryptography and a "time oracle" you trust - however what's the point when someone can always take a photo of their screen if not find a more clever and precise way to copy the content before it "disappears".  It seems like a fool's errand.  
+
+The best we can probably do is an indelible time stamp (some kind of time stamped signature by the content creator) that at least shows and proves the version of the content and when it was valid.  
+
+Is there another solution?  Seems like at the very least it would require custom display hardware and the ability to prevent tampering with it (like an HSM) but it still doesn't stop someone from literally taking a photo of the screen. 
+
+Food for thought anyway...
