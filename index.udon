@@ -1,11 +1,7 @@
 :-  :~
-  [%collection 'winter-is-here']
-  [%comments 'closed']
-  [%last-modified '~2020.2.3..19.52.56..5672']
+  [%author '~winter-paches']
+  [%last-modified '~2020.3.15..20.03.35..7e34']
   [%title 'index']
-  [%creator '~winter-paches']
-  [%pinned 'false']
-  [%filename 'index']
   [%date-created '~2019.8.1..13.59.17..87fe']
     ==
 ;>
@@ -38,6 +34,10 @@ this is an experiment.
 
 - [elite](/~publish/~winter-paches/winter-is-here/elite)
 - [expansive](/~publish/~winter-paches/winter-is-here/expansive)
+
+*G*
+
+- [geek](/~publish/~winter-paches/winter-is-here/geek)
 
 *I*
 
