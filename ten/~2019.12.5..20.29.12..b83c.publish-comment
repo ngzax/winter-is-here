@@ -1,7 +1,4 @@
-creator: ~wicdev-wisryt
-collection: winter-is-here
-post: ten
+author: ~wicdev-wisryt
 date-created: ~2019.12.5..20.29.12..b83c
-last-modified: ~2019.12.5..20.29.12..b83c
 -----
 yeah, the next thing to help third party contributions is to make them not even need to be "contributions" to urbit/urbit.  Imagine |install ~littel-wolfur %org-mode
